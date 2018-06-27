@@ -1,0 +1,193 @@
+[	
+	{
+		"version":"2.02.0",
+		"description": "★ Update list ★",
+		"songs":
+		[
+			{
+				"name": "Donatello",
+				"artist": "Triplestar",
+				"bpm": "175",
+				"channel": "Arcade",
+				"type": "XROSS",
+				"charts": "S12 S17 S21 D18 D22"
+			},
+			{
+				"name": "Up & Up (Produced by AWAL) ",
+				"artist": "Skizzo",
+				"bpm": "150",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S3 S5 S8 S17 D9 D18"
+			},
+			{
+				"name": "Travel to Future",
+				"artist": "Neutral Moon",
+				"bpm": "160",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S3 S7 S11 S17 S19 D12 D18 D21 D23"
+			}
+		],
+		"charts": 
+		[
+			"Naissance: S16",
+			"Annihilator Method: S23",
+			"Moon Light Dance: COOP2"
+		],
+		"missions": 
+		[
+			"Start On Red: S11 S15 S19 S20",
+			"1950: S17 S21 D21 D22",
+			"Mr Larpus: S14 S20 D17 D21",				
+			"Hi Bi: S18 D18 D20 D21",
+			"B2: S11 S16 D19 D22",
+			"Reminiscene: S17 D15 D18 D23",
+			"Sugar Conspiracy Theory: S15 D17 D18 D25"
+		],
+		"download": "http://bit.ly/2F5xdYh"
+	},	
+	{
+		"version":"2.03.0",
+		"description": "★ Update list ★",
+		"songs":
+		[
+			{
+				"name": "Silver Beat feat. ChisaUezono",
+				"artist": "Tatsh",
+				"bpm": "153",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S4 S7 S12 S16 S18 D7 D12 D18"
+			},
+			{
+				"name": "Tritium",
+				"artist": "Memme",
+				"bpm": "180",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S8 S12 S17 S20 D10 D14 D19 D22"
+			},
+			{
+				"name": "Passing Rider",
+				"artist": "mzet:-P",
+				"bpm": "175",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S8 S12 S16 S20 D10 D20"
+			},
+			{
+				"name": "Awakening",
+				"artist": "typeMARS",
+				"bpm": "150",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S7 S10 S14 S16 S19 D9 D13 D17 D20"
+			},
+			{
+				"name": "Gothique Resonance",
+				"artist": "P4Koo ",
+				"bpm": "174",
+				"channel": "Arcade",
+				"type": "XROSS",
+				"charts": "S7 S11 S18 S20 D12 D20"
+			}
+		],
+		"charts": 
+		[
+			"Further: D17",
+			"Up & Up: D20",
+			"V3: D21",
+			"Feel My Happiness: D21",
+			"Sarabande: D24"
+		],
+		"missions": 
+		[
+			"Me Gustas Tu: S7 S14 S16 S18",
+			"You Again My Love: S6 S14 D14 D20",
+			"Unique: S17 S19 D19 D21",				
+			"Elise: S17 S19 D16 D21",
+			"Twist Of Fate: S18 S19 S20 S21",
+			"Windmill: S13 S17 D14 D24",
+			"Trashy Innocence: S14 S15 S20 S23"
+		],
+		"download": "https://bit.ly/2Hz1OL0"
+	},
+	{
+		"version":"2.03.1",
+		"description": "Fixed a bug of some Questzone step charts clear conditions",
+		"download": "https://bit.ly/2jRcMRQ"
+	},
+	{
+		"version":"2.04.0",
+		"image":"https://i.imgur.com/V4LTfFe.png",
+		"description": "★ Update list ★",
+		"songs":
+		[
+			{
+				"name": "Cross Over",
+				"artist": "HyuN",
+				"bpm": "200",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S7 S11 S15 S18 S22 D14 D19 D23"
+			},
+			{
+				"name": "Walts of Doge",
+				"artist": "Cashew",
+				"bpm": "250",
+				"channel": "Arcade",
+				"type": "Original",
+				"charts": "S8 S11 S14 S17 S19 D12 D18 D20 COOP2"
+			},
+			{
+				"name": "Black Dragon",
+				"artist": "Memme",
+				"bpm": "162",
+				"channel": "Arcade",
+				"type": "XROSS",
+				"charts": "S5 S8 S11 S17 S20 D11 D17 D19"
+			},
+			{
+				"name": "A Site De La Rue",
+				"artist": "STREME REVERIE",
+				"bpm": "186",
+				"channel": "Arcade",
+				"type": "XROSS",
+				"charts": "S8 S11 S17 S20 D12 D20 D24"
+			},
+			{
+				"name": "Gargoyle Full Song",
+				"artist": "Sanxion7",
+				"bpm": "150",
+				"channel": "Full Song",
+				"type": "World Music",
+				"charts": "S20 S21 S23 D22 D25 COOP2"
+			}
+		],
+		"charts": 
+		[
+			"Sarabande: S12",
+			"The People Didn't Know: S12",
+			"Blazing: S19",
+			"Imprinting: D16",
+			"Start On RED: D18",
+			"Redline: D21",
+			"Anguished Unmaking: D22",
+			"Removable Disk0: COOP2",
+			"Banya Hiphop Remix: D20",
+			"Paradoxx: D25"
+		],
+		"missions": 
+		[
+			"U Got Me Rocking: S17 S18 D17 D19",
+			"Up & Up (Produced by AWAL): S8 S17 D18 D20",
+			"Karyawisata: S17 S20 D16 D21",
+			"Passacaglia: S10 S16 S20 S22",
+			"Chicken Wing: S21 S23 D21 D22",
+			"Gothique Resonance: S11 D12 D20 D24",
+			"Dream 2 Nightmare: S22 D22 D24 D27"
+		],
+		"download": "https://bit.ly/2K3XsRm"
+	}
+]

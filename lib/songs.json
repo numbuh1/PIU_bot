@@ -1,0 +1,5023 @@
+[
+	{
+		"id":"536",
+		"name":"Gargoyle",
+		"artist":"Sanxion7",
+		"bpm":"150",
+		"charts":"S20 S21 D22",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461476794567098369/537.png",
+		"version":"2.04.0",
+		"unlockables": [
+			{ "chart": "S23", "price": "15,000 PP" },
+			{ "chart": "D25", "price": "25,000 PP" },
+			{ "chart": "COOP2", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"536",
+		"name":"A Site De La Rue",
+		"artist":"STREME REVERIE",
+		"bpm":"186",
+		"charts":"S8 S11 S17 D12",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461476442610466816/536.png",
+		"version":"2.04.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "1,800 PP" },
+			{ "chart": "D20", "price": "2,000 PP" },
+			{ "chart": "D24", "price": "3,360 PP" }
+		]
+	},
+	{
+		"id":"535",
+		"name":"Black Dragon",
+		"artist":"Memme",
+		"bpm":"162",
+		"charts":"S5 S8 S11 S17 D11 D17",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461476024052482049/535.png",
+		"version":"2.04.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "1,800 PP" },
+			{ "chart": "D19", "price": "1,710 PP" }
+		]
+	},
+	{
+		"id":"534",
+		"name":"Waltz of Doge",
+		"artist":"Cashew",
+		"bpm":"250",
+		"charts":"S8 S11 S14 S17 D12 D18",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461475396916084736/534.png",
+		"version":"2.04.0",
+		"unlockables": [
+			{ "chart": "S19", "price": "1,520 PP" },
+			{ "chart": "D20", "price": "1,440 PP" },
+			{ "chart": "COOP2", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"533",
+		"name":"Cross Over feat. LyuU",
+		"artist":"HyuN",
+		"bpm":"200",
+		"charts":"S7 S11 S15 D14",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461474701580173312/533.png",
+		"version":"2.04.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "S22", "price": "2,420 PP" },
+			{ "chart": "D19", "price": "1,710 PP" },
+			{ "chart": "D23", "price": "2,990 PP" }
+		]
+	},
+	{
+		"id":"532",
+		"name":"Gothique Resonance",
+		"artist":"P4Koo",
+		"bpm":"174",
+		"charts":"S7 S11 S18 D12",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461473106410602496/532.png",
+		"version":"2.03.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "1,800 PP" },
+			{ "chart": "D20", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"531",
+		"name":"Awakening",
+		"artist":"typeMARS",
+		"bpm":"150",
+		"charts":"S7 S10 S14 S16 D9 D13 D17",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461472533825323008/531.png",
+		"version":"2.03.0",
+		"unlockables": [
+			{ "chart": "S19", "price": "1,520 PP" },
+			{ "chart": "D20", "price": "2,000 PP" }
+		]
+	},
+	{
+		"id":"530",
+		"name":"Passing Rider",
+		"artist":"mzet:-P",
+		"bpm":"175",
+		"charts":"S8 S12 S16 D10",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461469500303343626/530.png",
+		"version":"2.03.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "1,800 PP" },
+			{ "chart": "D20", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"529",
+		"name":"Tritium",
+		"artist":"Memme",
+		"bpm":"180",
+		"charts":"S8 S12 S17 D10 D14",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461469160497741826/529.png",
+		"version":"2.03.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "1,800 PP" },
+			{ "chart": "D19", "price": "1,710 PP" },
+			{ "chart": "D22", "price": "2,640 PP" }
+		]
+	},
+	{
+		"id":"528",
+		"name":"Silver Beat feat. ChisaUezono",
+		"artist":"Tatsh",
+		"bpm":"153",
+		"charts":"S4 S7 S12 S16 D7 D12",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461468384715079681/hqdefault.png",
+		"version":"2.03.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "AM.PASS Exclusive" },
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"527",
+		"name":"Travel to Future",
+		"artist":"Neutral Moon",
+		"bpm":"160",
+		"charts":"S3 S7 S11 S17 D12 D18 D21",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461463752001454080/527.png",
+		"version":"2.02.0",
+		"unlockables": [
+			{ "chart": "S19", "price": "1,520 PP" },
+			{ "chart": "D23", "price": "2,990 PP" }
+		]
+	},
+	{
+		"id":"526",
+		"name":"Up & Up (Produced by AWAL)",
+		"artist":"Skizzo",
+		"bpm":"150",
+		"charts":"S3 S5 S8 S17 D9 D18 D20",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461463244197068810/526.png",
+		"version":"2.02.0"
+	},
+	{
+		"id":"525",
+		"name":"Donatello",
+		"artist":"Triplestar",
+		"bpm":"175",
+		"charts":"S12 S17 S21 D18",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461462819829841920/525.png",
+		"version":"2.02.0",
+		"unlockables": [
+			{ "chart": "D22", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"523",
+		"name":"The Festival of Ghost2 (Sneak)",
+		"artist":"Brandy",
+		"bpm":"136",
+		"charts":"S9 S16 S18 D10 D17",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461397564562866177/523.png",
+		"version":"2.01.0",
+		"unlockables": [
+			{ "chart": "S20", "price": "AM.PASS Exclusive" },
+			{ "chart": "D20", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"522",
+		"name":"PICK ME (Season 2)",
+		"artist":"PRODUCE101",
+		"bpm":"128",
+		"charts":"S2 S4 S6 S14 D5 D15",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461361013153857557/522.png",
+		"version":"2.01.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "1,020 PP" },
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"521",
+		"name":"Rave’til the earth’s end",
+		"artist":"5argon",
+		"bpm":"160",
+		"charts":"S4 S7 S15 S17 D13 D18",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461360451695935488/521.png",
+		"version":"2.01.0",
+		"unlockables": [
+			{ "chart": "S19", "price": "1,520 PP" },
+			{ "chart": "D20", "price": "2,000 PP" }
+		]
+	},
+	{
+		"id":"519",
+		"name":"Kasou Shinja",
+		"artist":"MAX",
+		"bpm":"170",
+		"charts":"S21 D21",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461208911173910547/519.png",
+		"version":"2.00.0"
+	},
+	{
+		"id":"518",
+		"name":"Hyperion",
+		"artist":"M2U",
+		"bpm":"145",
+		"charts":"S15 S20 D21",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461209498204504084/518.png",
+		"version":"2.00.0"
+	},
+	{
+		"id":"517",
+		"name":"REALLY REALLY",
+		"artist":"WINNER",
+		"bpm":"103",
+		"charts":"S2 S4 S6 S13 D7",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461208363171053573/517.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S13", "price": "750 PP" },
+			{ "chart": "D15", "price": "960 PP" }
+		]
+	},
+	{
+		"id":"516",
+		"name":"Beautiful",
+		"artist":"Wanna One",
+		"bpm":"80",
+		"charts":"S2 S3 S5 S9 S15 D5 D12",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461207995611873280/516.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "D18", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"515",
+		"name":"Energetic",
+		"artist":"Wanna One",
+		"bpm":"125",
+		"charts":"S2 S4 S6 S9 S13 D6 D14",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461207505763041280/515.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S16", "price": "800 PP" },
+			{ "chart": "D16", "price": "960 PP" },
+			{ "chart": "D17", "price": "1,710 PP" }
+		]
+	},
+	{
+		"id":"514",
+		"name":"HTTP",
+		"artist":"Quree",
+		"bpm":"147",
+		"charts":"S2 S4 S7 S14 D10 D12",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461206933051801600/514.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "1,020 PP" },
+			{ "chart": "S21", "price": "2,100 PP" },
+			{ "chart": "D19", "price": "1,710 PP" },
+			{ "chart": "D23", "price": "2,990 PP" }
+		]
+	},
+	{
+		"id":"513",
+		"name":"Twist of Fate (feat. Ruriling)",
+		"artist":"Jehezukiel",
+		"bpm":"141",
+		"charts":"S4 S6 S10 S16 D10 D17",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461206614960111646/513.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "D20", "price": "2,000 PP" }
+		]
+	},
+	{
+		"id":"512",
+		"name":"Anguished Unmaking",
+		"artist":"Void",
+		"bpm":"170",
+		"charts":"S3 S5 S8 S15 D9 D22",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461206347979948062/512.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "1,020 PP" },
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"511",
+		"name":"Super Capriccio",
+		"artist":"SHK",
+		"bpm":"150",
+		"charts":"S4 S7 S11 S16 D11",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461205989593579540/511.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"510",
+		"name":"Infinity",
+		"artist":"Lunatic Sounds",
+		"bpm":"175",
+		"charts":"S10 S15 D10 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461205459534348288/510.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "S21", "price": "2,100 PP" },
+			{ "chart": "D19", "price": "1,710 PP" },
+			{ "chart": "D24", "price": "3,360 PP" }
+		]
+	},
+	{
+		"id":"509",
+		"name":"V3",
+		"artist":"Beautiful Day",
+		"bpm":"160",
+		"charts":"S6 S9 S14 D9 D21",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461203397807177733/508.png",
+		"version":"2.00.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "1,020 PP" },
+			{ "chart": "D18", "price": "1,440 PP" },
+			{ "chart": "D24", "price": "3,360 PP" }
+		]
+	},
+	{
+		"id":"508",
+		"name":"Cross Time",
+		"artist":"Brandy",
+		"bpm":"160",
+		"charts":"S3 S7 S11 S15 D11 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461203397807177733/508.png",
+		"version":"1.10.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "AM.PASS Exclusive" },
+			{ "chart": "D20", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"507",
+		"name":"Heart Attack",
+		"artist":"DJ Counterforce",
+		"bpm":"148",
+		"charts":"S7 S11 S16 D9 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461203045737431040/507.png",
+		"version":"1.10.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "D20", "price": "2,000 PP" }
+		]
+	},
+	{
+		"id":"506",
+		"name":"Nakakapagpabagabag",
+		"artist":"Dasu feat. Kagamine Len",
+		"bpm":"145",
+		"charts":"S10 S14 S18 D15 DP4 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461201791501991936/506.png",
+		"version":"1.10.0",
+		"unlockables": [
+			{ "chart": "D19", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"505",
+		"name":"Keep On!",
+		"artist":"AmamoriP",
+		"bpm":"185",
+		"charts":"S6 S12 S15 D12 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461201318032310283/505.png",
+		"version":"1.10.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "S21", "price": "2,100 PP" },
+			{ "chart": "D20", "price": "2,000 PP" },
+			{ "chart": "D22", "price": "2,640 PP" }
+		]
+	},
+	{
+		"id":"504",
+		"name":"Chase Me",
+		"artist":"Dreamcatcher",
+		"bpm":"200",
+		"charts":"S19 D25",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461200802829172736/504.png",
+		"version":"1.09.0"
+	},
+	{
+		"id":"503",
+		"name":"Kill Them",
+		"artist":"Archefluxx",
+		"bpm":"170",
+		"charts":"S5 S10 S15 D9 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461200475266613249/503.png",
+		"version":"1.09.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"502",
+		"name":"Time Attack <Blue>",
+		"artist":"r300k",
+		"bpm":"119",
+		"charts":"S8 S15 D10 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461199538250842122/502.png",
+		"version":"1.09.0",
+		"unlockables": [
+			{ "chart": "S18", "price": "1,260 PP" },
+			{ "chart": "D20", "price": "2,000 PP" }
+		]
+	},
+	{
+		"id":"501",
+		"name":"Shub Niggurath",
+		"artist":"Nato",
+		"bpm":"220",
+		"charts":"S18 S22 D23",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461197714881904660/501.png",
+		"version":"1.08.0"
+	},
+	{
+		"id":"500",
+		"name":"Fallen Angel",
+		"artist":"DM Ashura",
+		"bpm":"157",
+		"charts":"S6 S10 S17 D10 D15 D21 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461196299832918016/500.png",
+		"version":"1.08.0",
+		"unlockables": [
+			{ "chart": "D20", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"498",
+		"name":"Gotta Be You",
+		"artist":"2NE1",
+		"bpm":"130",
+		"charts":"S3 S5 S8 S15 D6 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461196014292959253/498.png",
+		"version":"1.08.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "1,020 PP" },
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"496",
+		"name":"Leather",
+		"artist":"Doin",
+		"bpm":"200",
+		"charts":"S18 S21 D22",
+		"channel":"REMIX",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461184745905061889/496.png",
+		"version":"1.07.0",
+		"unlockables": [
+			{ "chart": "S24", "price": "4,680 PP" },
+			{ "chart": "D26", "price": "6,240 PP" }
+		]
+	},
+	{
+		"id":"495",
+		"name":"BEDLAM",
+		"artist":"SANY-ON",
+		"bpm":"183",
+		"charts":"S8 S15 S18 D13 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461192653808074769/495.png",
+		"version":"1.07.0",
+		"unlockables": [
+			{ "chart": "S22", "price": "2,420 PP" },
+			{ "chart": "D24", "price": "3,360 PP" }
+		]
+	},
+	{
+		"id":"494",
+		"name":"Hey U",
+		"artist":"MAZO",
+		"bpm":"162",
+		"charts":"S5 S10 S15 D10 D16 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461193201957601281/494.png",
+		"version":"1.07.0"
+	},
+	{
+		"id":"493",
+		"name":"Overblow2",
+		"artist":"MAX",
+		"bpm":"155",
+		"charts":"S5 S9 S15 D7 D14 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461193889030602762/493.png",
+		"version":"1.07.0"
+	},
+	{
+		"id":"492",
+		"name":"Acquaintance",
+		"artist":"Outsider",
+		"bpm":"130",
+		"charts":"S20 D22",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461194145382268938/492.png",
+		"version":"1.06.0"
+	},
+	{
+		"id":"491",
+		"name":"Magical Vacation",
+		"artist":"SID-SOUND",
+		"bpm":"154",
+		"charts":"S6 S11 S16 D7 D13 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461194344888532992/491.png",
+		"version":"1.06.0",
+		"unlockables": [
+			{ "chart": "S19", "price": "AM.PASS Exclusive" },
+			{ "chart": "D18", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"490",
+		"name":"SOBER",
+		"artist":"BIG BANG",
+		"bpm":"135",
+		"charts":"S2 S4 S7 S13 D3 D14 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461194880580976640/490.png",
+		"version":"1.06.0",
+		"unlockables": [
+			{ "chart": "S17", "price": "AM.PASS Exclusive" },
+			{ "chart": "D17", "price": "AM.PASS Exclusive" },
+			{ "chart": "CO2", "price": "AM.PASS Exclusive" }
+		]
+	},
+	{
+		"id":"489",
+		"name":"Shub Niggurath",
+		"artist":"Nato",
+		"bpm":"220",
+		"charts":"S11 S15 S19 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES",
+		"image":"https://cdn.discordapp.com/attachments/311546162425364500/461195188371456001/489.png",
+		"version":"1.06.0",
+		"unlockables": [
+			{ "chart": "S21", "price": "2,100 PP" },
+			{ "chart": "S24", "price": "3,120 PP" },
+			{ "chart": "D23", "price": "2,990 PP" },
+			{ "chart": "D26", "price": "4,160 PP" }
+		]
+	},
+	{
+		"id":"487",
+		"name":"PRIME2 Opening",
+		"artist":"MAX",
+		"bpm":"145",
+		"charts":"S7 S12 S17 D18",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"486",
+		"name":"Up&Down",
+		"artist":"EXID",
+		"bpm":"112",
+		"charts":"S8 S18 D19",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"485",
+		"name":"Seize My Day",
+		"artist":"Rainbowdragoneyes",
+		"bpm":"160",
+		"charts":"S2 S6 S10 S14 S18 D7 D12 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"484",
+		"name":"Redline",
+		"artist":"Archefluxx",
+		"bpm":"170",
+		"charts":"S5 S10 S16 D13 D20 D21 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"483",
+		"name":"Good Night",
+		"artist":"Dreamcatcher",
+		"bpm":"196",
+		"charts":"S3 S5 S9 S17 D5 D19 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"482",
+		"name":"Start On Red",
+		"artist":"Nato",
+		"bpm":"160",
+		"charts":"S4 S8 S11 S15 D12 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"481",
+		"name":"Super Stylin'",
+		"artist":"Warak",
+		"bpm":"146",
+		"charts":"S7 S9 S11 S17 D9 D12 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"480",
+		"name":"Allegro Furioso",
+		"artist":"DM Ashura",
+		"bpm":"176",
+		"charts":"S5 S10 S13 S17 D14 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"479",
+		"name":"Utsushiyo No Kaze feat.Kana",
+		"artist":"void",
+		"bpm":"152",
+		"charts":"S7 S11 S16 D11 D19 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"477",
+		"name":"HUSH",
+		"artist":"Yassi Pressman & Nadine Lustre",
+		"bpm":"82",
+		"charts":"S15 D16",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"476",
+		"name":"HUSH",
+		"artist":"Yassi Pressman & Nadine Lustre",
+		"bpm":"82",
+		"charts":"S3 S5 S8 S14 D6 D15",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"475",
+		"name":"Hyperion",
+		"artist":"M2U",
+		"bpm":"145",
+		"charts":"S5 S9 S14 D11 D18 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"474",
+		"name":"HELIX",
+		"artist":"ESTi",
+		"bpm":"175",
+		"charts":"S5 S7 S11 S16 S18 D11 D15 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"473",
+		"name":"BOOMBAYAH",
+		"artist":"BLACKPINK",
+		"bpm":"125",
+		"charts":"S10 S17 D18",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"472",
+		"name":"STEP",
+		"artist":"SID-SOUND",
+		"bpm":"156",
+		"charts":"S7 S13 S17 D12 D18 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"470",
+		"name":"Chase Me",
+		"artist":"Dreamcatcher",
+		"bpm":"200",
+		"charts":"S3 S5 S9 S15 S18 D11 D19 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"469",
+		"name":"Kasou Shinja",
+		"artist":"MAX",
+		"bpm":"170",
+		"charts":"S4 S7 S9 S16 S18 D12 D19 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"468",
+		"name":"Me Gustas Tu",
+		"artist":"GFriend",
+		"bpm":"106",
+		"charts":"S16 D17",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"467",
+		"name":"Just Kiddin",
+		"artist":"Vospi",
+		"bpm":"125",
+		"charts":"S5 S13 S16 D9 D18 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"466",
+		"name":"Clue",
+		"artist":"Transin",
+		"bpm":"140",
+		"charts":"S4 S8 S12 S16 S18 D10 D18 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"410",
+		"name":"Death Moon",
+		"artist":"SHK",
+		"bpm":"160",
+		"charts":"S9 S15 S19 D17 D22",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"409",
+		"name":"Sarabande",
+		"artist":"MAX",
+		"bpm":"157",
+		"charts":"S9 S16 S18 D17 D24",
+		"channel":"SHORTCUT",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"408",
+		"name":"BANG BANG BANG",
+		"artist":"BIG BANG",
+		"bpm":"135",
+		"charts":"S6 S18 D20",
+		"channel":"FULL SONG",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"407",
+		"name":"Vulcan",
+		"artist":"Memme",
+		"bpm":"175",
+		"charts":"S22 D24",
+		"channel":"REMIX",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"406",
+		"name":"Le Grand Bleu",
+		"artist":"KIEN",
+		"bpm":"165",
+		"charts":"S7 S12 S16 S20 D9 D18 COOP2 DP6",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"405",
+		"name":"Asterios -ReEntry-",
+		"artist":"ATAS",
+		"bpm":"148",
+		"charts":"S4 S6 S11 S14 S17 D8 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"404",
+		"name":"Christmas Memories",
+		"artist":"Warak",
+		"bpm":"170",
+		"charts":"S3 S5 S8 S14 D9 D15 COOP2 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"403",
+		"name":"Death Moon",
+		"artist":"SHK",
+		"bpm":"160",
+		"charts":"S3 S6 S10 S14 S17 D7 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"402",
+		"name":"Moon Light Dance",
+		"artist":"TatshMusicCircle",
+		"bpm":"182",
+		"charts":"S3 S7 S11 S14 D4 D15 DP4 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"401",
+		"name":"Acquaintance",
+		"artist":"Outsider",
+		"bpm":"130",
+		"charts":"S3 S7 S9 S17 D7 D18 COOP2 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"400",
+		"name":"NUMBER NINE",
+		"artist":"T-ARA",
+		"bpm":"128",
+		"charts":"S3 S5 S8 S11 S13 D8 D15 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"399",
+		"name":"You're the best",
+		"artist":"MAMAMOO",
+		"bpm":"122",
+		"charts":"S2 S4 S6 S10 S15 D7 D10 DP2 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"398",
+		"name":"Up&Down",
+		"artist":"EXID",
+		"bpm":"112",
+		"charts":"S2 S4 S7 S9 S15 D5 D15 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"397",
+		"name":"BOOMBAYAH",
+		"artist":"BLACKPINK",
+		"bpm":"125",
+		"charts":"S2 S4 S6 S9 S13 D7 D15 COOP2 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"396",
+		"name":"Jackpot",
+		"artist":"Block B",
+		"bpm":"130",
+		"charts":"S1 S3 S6 S9 S15 D6 D15 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"395",
+		"name":"Pick Me",
+		"artist":"PRODUCE101",
+		"bpm":"128",
+		"charts":"S1 S3 S5 S8 S13 D6 D10 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"394",
+		"name":"RHYTHM TA",
+		"artist":"iKON",
+		"bpm":"82",
+		"charts":"S2 S4 S7 S10 S15 D5 D11 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"393",
+		"name":"Me Gustas Tu",
+		"artist":"GFriend",
+		"bpm":"106",
+		"charts":"S2 S4 S6 S13 D6 D14 D16 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"392",
+		"name":"BANG BANG BANG",
+		"artist":"BIG BANG",
+		"bpm":"135",
+		"charts":"S1 S3 S5 S10 S15 SP3 D6 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"391",
+		"name":"Arcana Force",
+		"artist":"mzet:-P",
+		"bpm":"175",
+		"charts":"S4 S9 S16 D10 D17 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"390",
+		"name":"Sarabande",
+		"artist":"MAX",
+		"bpm":"157",
+		"charts":"S2 S4 S7 S12 S16 D11 D18 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"389",
+		"name":"Bring Back The Beat",
+		"artist":"Lunatic Sounds",
+		"bpm":"160",
+		"charts":"S7 S12 S17 D8 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"388",
+		"name":"Further",
+		"artist":"Doin",
+		"bpm":"194",
+		"charts":"S10 S18 S22 D14 D17 D22 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"387",
+		"name":"God Mode feat. skizzo",
+		"artist":"Nato",
+		"bpm":"152",
+		"charts":"S5 S8 S13 S18 D9 D17 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"386",
+		"name":"Hellfire",
+		"artist":"Memme",
+		"bpm":"170",
+		"charts":"S7 S11 S15 D9 D23 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"385",
+		"name":"Last Rebirth",
+		"artist":"SHK",
+		"bpm":"120",
+		"charts":"S3 S5 S8 S13 D7 D14 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME 2",
+		"available":"YES"
+	},
+	{
+		"id":"384",
+		"name":"Heavy Rotation",
+		"artist":"AKB48 (Cover)",
+		"bpm":"178",
+		"charts":"S10 S15 S18 D9 D16 D20",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"383",
+		"name":"Stardust Overdrive",
+		"artist":"typeMARS",
+		"bpm":"175",
+		"charts":"S16 D17",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"382",
+		"name":"PRIME opening",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S15 D15 COOP5",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"381",
+		"name":"Move That Body!",
+		"artist":"DM Ashura",
+		"bpm":"145",
+		"charts":"S16 D18",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"380",
+		"name":"Rock the house",
+		"artist":"Matduke",
+		"bpm":"175",
+		"charts":"S15 S18 D20",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"379",
+		"name":"Selfishness",
+		"artist":"SID-SOUND",
+		"bpm":"160",
+		"charts":"S17 D18",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D21", "price": "2,310 PP" }
+		]
+	},
+	{
+		"id":"378",
+		"name":"Silhouette_Effect",
+		"artist":"Nato",
+		"bpm":"167",
+		"charts":"S18 D17",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"377",
+		"name":"Yog-Sothoth",
+		"artist":"Nato",
+		"bpm":"200",
+		"charts":"S13 S18 S21 D16 D21",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"376",
+		"name":"Super Fantasy",
+		"artist":"SHK",
+		"bpm":"145",
+		"charts":"S19 D17",
+		"channel":"SHORTCUT",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"375",
+		"name":"Creed - 1st Desire -",
+		"artist":"TatshMusicCicle",
+		"bpm":"163",
+		"charts":"S18 S23 D19 D24",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"374",
+		"name":"Bad Apple!! feat. Nomico",
+		"artist":"Masayoshi Minoshima",
+		"bpm":"138",
+		"charts":"S10 S14 S17 D11 D18 D22 COOP4",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"373",
+		"name":"FOUR SEASONS OF LONELINESS ver β",
+		"artist":"TatshMusicCicle",
+		"bpm":"178",
+		"charts":"S14 S19 D14 D19",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"372",
+		"name":"Pandora",
+		"artist":"KARA",
+		"bpm":"140",
+		"charts":"S17 D18",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"371",
+		"name":"Move That Body!",
+		"artist":"DM Ashura feat. Skizzo & Hanna",
+		"bpm":"145",
+		"charts":"S17 S18 D19",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"370",
+		"name":"NoNoNo",
+		"artist":"Apink",
+		"bpm":"106",
+		"charts":"S14 S15 D16",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"369",
+		"name":"Sugar Free",
+		"artist":"T-ara",
+		"bpm":"128",
+		"charts":"S15 D15",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"368",
+		"name":"Bar Bar Bar",
+		"artist":"Crayon Pop",
+		"bpm":"134",
+		"charts":"S6 D15",
+		"channel":"FULL SONG",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"367",
+		"name":"PARADOXX",
+		"artist":"MAX & NATO",
+		"bpm":"220",
+		"charts":"S21 S23 S26 D25 D28",
+		"channel":"REMIX",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"366",
+		"name":"Avalanquiem",
+		"artist":"MAX & MEMME",
+		"bpm":"175",
+		"charts":"S19 S23 D25",
+		"channel":"REMIX",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"365",
+		"name":"Beethoven Influenza",
+		"artist":"Banya & Warak",
+		"bpm":"170",
+		"charts":"S18 S21 D21",
+		"channel":"REMIX",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"364",
+		"name":"Like Me",
+		"artist":"SHK",
+		"bpm":"155",
+		"charts":"S6 S10 S14 S17 D11 D18 DP2 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"363",
+		"name":"HYPERCUBE",
+		"artist":"MAX",
+		"bpm":"145",
+		"charts":"S6 S10 S15 S17 D10 D16 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"362",
+		"name":"Break It Down",
+		"artist":"MAZO",
+		"bpm":"176",
+		"charts":"S7 S14 S16 D5 D12 D17",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"361",
+		"name":"Heavy Rotation",
+		"artist":"AKB48 (Cover)",
+		"bpm":"178",
+		"charts":"S2 S4 S5 S9 S16 S18 D6 D16 D19 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"360",
+		"name":"Unlock",
+		"artist":"Miura Daichi (Cover)",
+		"bpm":"128",
+		"charts":"S2 S3 S5 S7 S11 S14 D3 D9 D15",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"359",
+		"name":"Just Hold on (To All Fighters)",
+		"artist":"void",
+		"bpm":"170",
+		"charts":"S4 S7 S10 S16 S21 D12 D18 D22 D25 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"358",
+		"name":"Idealized Romance",
+		"artist":"ETIA.",
+		"bpm":"140",
+		"charts":"S2 S4 S7 S11 S16 S18 D10 D18",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"357",
+		"name":"Queen Of The Red",
+		"artist":"ETIA.",
+		"bpm":"188",
+		"charts":"S4 S7 S11 S15 S18 D12 D16 D19 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"356",
+		"name":"Bad ∞ End ∞ Night",
+		"artist":"HitoshizukuP X yama",
+		"bpm":"204",
+		"charts":"S2 S4 S6 S10 S13 S17 S19 D11 D18 D23 DP4 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"355",
+		"name":"PRIME",
+		"artist":"Tatsh",
+		"bpm":"165",
+		"charts":"S4 S7 S11 S16 S18 S20 D12 D16 D18 D20 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"354",
+		"name":"Houkago Stride",
+		"artist":"Last Note.",
+		"bpm":"225",
+		"charts":"S3 S6 S10 S15 S19 D10 D16 D21 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"353",
+		"name":"Renai Yuusha",
+		"artist":"Last Note.",
+		"bpm":"190",
+		"charts":"S3 S6 S12 S17 S19 D4 D13 D18 D20 DP4 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"352",
+		"name":"Trashy Innocence",
+		"artist":"Last Note.",
+		"bpm":"230",
+		"charts":"S1 S3 S5 S10 S14 S20 D10 D15 D24 DP4 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"351",
+		"name":"Setsuna Trip",
+		"artist":"Last Note.",
+		"bpm":"145",
+		"charts":"S1 S3 S5 S9 S13 S16 S18 D8 D14 D19 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"350",
+		"name":"Ai Yurete…",
+		"artist":"TatshMusicCicle",
+		"bpm":"152",
+		"charts":"S1 S3 S6 S9 S13 S16 D8 D15 D18 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"349",
+		"name":"FOUR SEASONS OF LONELINESS ver β",
+		"artist":"TatshMusicCicle",
+		"bpm":"178",
+		"charts":"S1 S4 S6 S10 S14 S17 S20 D10 D14 D18 D21 DP2 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"348",
+		"name":"Sora no shirabe",
+		"artist":"TatshMusicCicle",
+		"bpm":"172",
+		"charts":"S3 S8 S12 S15 S18 D11 D16 D20 DP4 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"347",
+		"name":"Creed - 1st Desire -",
+		"artist":"TatshMusicCicle",
+		"bpm":"163",
+		"charts":"S4 S7 S12 S18 S21 D11 D18 D23 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"346",
+		"name":"Bad Apple!! feat. Nomico",
+		"artist":"Masayoshi Minoshima",
+		"bpm":"138",
+		"charts":"S1 S3 S5 S9 S13 S15 S17 S19 D10 D18 D21 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"345",
+		"name":"Smile Diary",
+		"artist":"you",
+		"bpm":"175",
+		"charts":"S4 S7 S11 S16 S19 D8 D17 D20 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"344",
+		"name":"Mitotsudiara",
+		"artist":"ETIA.",
+		"bpm":"136",
+		"charts":"S1 S4 S9 S15 S18 D10 D16 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"343",
+		"name":"Sudden Romance",
+		"artist":"void",
+		"bpm":"152",
+		"charts":"S4 S6 S9 S14 S19 D8 D14 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"342",
+		"name":"Imprinting",
+		"artist":"Sakuzyo",
+		"bpm":"175",
+		"charts":"S4 S7 S11 S17 S20 D12 D16 D20 D24 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"341",
+		"name":"Yoropiku Pikuyoro!",
+		"artist":"Bakusute Sotokanda Icchome",
+		"bpm":"198",
+		"charts":"S3 S5 S9 S15 SP3 D5 D16 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"340",
+		"name":"Amai Yuuwaku Dangerous",
+		"artist":"Bakusute Sotokanda Icchome",
+		"bpm":"125",
+		"charts":"S1 S3 S6 S11 S15 D5 D10 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"339",
+		"name":"Moment Day",
+		"artist":"MAX",
+		"bpm":"158",
+		"charts":"S3 S6 S10 S15 S17 S18 D9 D16 D19 DP5 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"338",
+		"name":"Reminiscence",
+		"artist":"MAX",
+		"bpm":"155",
+		"charts":"S3 S6 S10 S17 D10 D18 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "S15", "price": "750 PP" },
+			{ "chart": "D17", "price": "1,190 PP" }
+		]
+	},
+	{
+		"id":"337",
+		"name":"Stardust Overdrive",
+		"artist":"typeMARS",
+		"bpm":"175",
+		"charts":"S4 S9 S16 S18 D5 D13 D16 D19 D24 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"336",
+		"name":"Enhance Reality",
+		"artist":"Matduke",
+		"bpm":"170",
+		"charts":"S9 S14 S19 D11 D20 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"335",
+		"name":"Across the Ocean",
+		"artist":"Zircon",
+		"bpm":"130",
+		"charts":"S3 S6 S9 S15 D11 D16 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"334",
+		"name":"Que Viva La Vida",
+		"artist":"Wisin Ft. Michel Teló",
+		"bpm":"130",
+		"charts":"S2 S4 S6 S16 D7 D16",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"333",
+		"name":"Melodia",
+		"artist":"Lylloo feat. Egas",
+		"bpm":"135",
+		"charts":"S2 S4 S6 S14 D4 D15",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"332",
+		"name":"Limbo",
+		"artist":"Daddy Yankee",
+		"bpm":"125",
+		"charts":"S2 S4 S6 S15 D5 D15",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"331",
+		"name":"video out c",
+		"artist":"Vospi",
+		"bpm":"198",
+		"charts":"S9 S14 S17 S22 D14 D23 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"330",
+		"name":"Karyawisata",
+		"artist":"Vesuvia x REDSHiFT",
+		"bpm":"173",
+		"charts":"S4 S7 S10 S15 S17 S20 D7 D16 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"329",
+		"name":"Achluoias",
+		"artist":"D_AAN",
+		"bpm":"200",
+		"charts":"S8 S15 S18 S22 S24 D12 D16 D24 D26 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"328",
+		"name":"Ragnarok",
+		"artist":"SynthWulf",
+		"bpm":"170",
+		"charts":"S7 S11 S16 S18 S20 D9 D13 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"327",
+		"name":"Feel My Happiness",
+		"artist":"3R2",
+		"bpm":"175",
+		"charts":"S3 S10 S17 D6 D18 D21 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"326",
+		"name":"Milky Way Galaxy",
+		"artist":"3R2",
+		"bpm":"175",
+		"charts":"S6 S11 S17 D11 D18 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"325",
+		"name":"MATADOR",
+		"artist":"Cranky",
+		"bpm":"168",
+		"charts":"S4 S7 S10 S18 S21 D7 D16 D19 D21 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"324",
+		"name":"Dolly KiSS",
+		"artist":"SID-SOUND",
+		"bpm":"149",
+		"charts":"S3 S6 S14 S17 D6 D15 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"323",
+		"name":"Cosmical Rhythm",
+		"artist":"SID-SOUND",
+		"bpm":"128",
+		"charts":"S3 S6 S8 S15 D10 D16 D18 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"322",
+		"name":"Selfishness",
+		"artist":"SID-SOUND",
+		"bpm":"160",
+		"charts":"S3 S6 S11 S17 D12 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"321",
+		"name":"THE REVOLUTION",
+		"artist":"MAX & DOOM",
+		"bpm":"160",
+		"charts":"S7 S11 S17 S19 D12 D19 D22 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"320",
+		"name":"One",
+		"artist":"Epik High",
+		"bpm":"135",
+		"charts":"S1 S3 S5 S15 D5 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"319",
+		"name":"Ineffective Boss WIthout Power",
+		"artist":"Norazo",
+		"bpm":"170",
+		"charts":"S4 S6 S8 S18 D5 D19 DP3 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"318",
+		"name":"Flying duck",
+		"artist":"Cherry Filter",
+		"bpm":"158",
+		"charts":"S3 S7 S10 S16 D11 D18 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"317",
+		"name":"Loner",
+		"artist":"Outside",
+		"bpm":"125",
+		"charts":"S3 S5 S8 S15 S19 D6 D17 D22 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"316",
+		"name":"NoNoNo",
+		"artist":"Apink",
+		"bpm":"106",
+		"charts":"S2 S3 S5 S14 SP15 D5 D14 DP4 DP15 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"315",
+		"name":"HER",
+		"artist":"Block B",
+		"bpm":"162",
+		"charts":"S4 S6 S9 S16 D7 D17 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"314",
+		"name":"Sugar Free",
+		"artist":"T-ara",
+		"bpm":"128",
+		"charts":"S4 S6 S8 S15 S17 D5 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"313",
+		"name":"Supermagic",
+		"artist":"Supreme Team",
+		"bpm":"112",
+		"charts":"S2 S4 S6 S14 D5 D15 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"312",
+		"name":"Hate Don't Hate!",
+		"artist":"Dal shabet",
+		"bpm":"123",
+		"charts":"S2 S4 S6 S15 D6 D16 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"311",
+		"name":"VENUS",
+		"artist":"SHINWHA",
+		"bpm":"126",
+		"charts":"S2 S3 S5 S14 D6 D14",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"310",
+		"name":"Pandora",
+		"artist":"KARA",
+		"bpm":"140",
+		"charts":"S2 S4 S7 S16 D6 D16 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"309",
+		"name":"I'm Sorry",
+		"artist":"CNBLUE",
+		"bpm":"131",
+		"charts":"S4 S6 S9 S16 D8 D17 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"308",
+		"name":"very good",
+		"artist":"Block B",
+		"bpm":"136",
+		"charts":"S3 S6 S9 S15 D5 D15 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"307",
+		"name":"ELVIS",
+		"artist":"AOA",
+		"bpm":"135",
+		"charts":"S2 S4 S7 S15 S17 D5 D16 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"306",
+		"name":"On and On",
+		"artist":"VIXX",
+		"bpm":"119",
+		"charts":"S2 S4 S6 S15 D5 D15 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"305",
+		"name":"Bar Bar Bar",
+		"artist":"Crayon Pop",
+		"bpm":"134",
+		"charts":"S3 S5 S8 S14 D4 D11 D15 DP3 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"304",
+		"name":"Robot battle",
+		"artist":"CYO Style",
+		"bpm":"198",
+		"charts":"S8 S12 S18 S21 D12 D19 D23 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"303",
+		"name":"You again my love",
+		"artist":"CYO Style & Henohenomoheji",
+		"bpm":"137",
+		"charts":"S1 S3 S6 S14 D6 D14 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"302",
+		"name":"Campanella",
+		"artist":"Cashew",
+		"bpm":"140",
+		"charts":"S6 S9 S16 D10 D16 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"301",
+		"name":"Red Snow",
+		"artist":"Cashew",
+		"bpm":"170",
+		"charts":"S7 S11 S16 S19 D12 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"300",
+		"name":"Point Zero One",
+		"artist":"SynthWulf",
+		"bpm":"170",
+		"charts":"S9 S16 S20 D10 D17 D22 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"299",
+		"name":"scorpion king",
+		"artist":"r300k",
+		"bpm":"113",
+		"charts":"S3 S5 S8 S15 S19 D10 D16 D20 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"298",
+		"name":"Rock the house",
+		"artist":"Matduke",
+		"bpm":"175",
+		"charts":"S7 S10 S17 D10 D13 D18 D22 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"297",
+		"name":"Move That Body!",
+		"artist":"DM Ashura",
+		"bpm":"145",
+		"charts":"S3 S5 S8 S12 S17 S20 D10 D18",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"296",
+		"name":"Annihilator Method",
+		"artist":"DM Ashura",
+		"bpm":"192",
+		"charts":"S7 S10 S15 S19 D12 D20 D24 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "S23", "price": "2,760 PP" }
+		]
+	},
+	{
+		"id":"295",
+		"name":"Allegro Piu Mosso",
+		"artist":"DM Ashura",
+		"bpm":"160",
+		"charts":"S4 S6 S11 S16 S19 D13 D19",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"294",
+		"name":"Sugar Conspiracy Theory",
+		"artist":"MAX",
+		"bpm":"174",
+		"charts":"S1 S3 S6 S10 S15 S18 S19 D7 D11 D17 D20 DP5 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"293",
+		"name":"1950",
+		"artist":"SLAM",
+		"bpm":"200",
+		"charts":"S17 S20 S23 S25 D21 D25 D27 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"292",
+		"name":"Blaze Emotion(Band version)",
+		"artist":"Yahpp",
+		"bpm":"192",
+		"charts":"S2 S8 S17 D4 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"291",
+		"name":"Hyacinth",
+		"artist":"Yahpp",
+		"bpm":"192",
+		"charts":"S9 S13 S18 S21 D12 D19 D23 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"290",
+		"name":"Red Swan",
+		"artist":"Yahpp",
+		"bpm":"172",
+		"charts":"S4 S6 S8 S18 D12 D20 D21 DP4 DP20 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"289",
+		"name":"Violet Perfume",
+		"artist":"SHK",
+		"bpm":"140",
+		"charts":"S4 S6 S8 S14 S17 D10 D15 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"288",
+		"name":"Super Fantasy",
+		"artist":"SHK",
+		"bpm":"145",
+		"charts":"S4 S7 S10 S14 S16 S19 D11 D18 D21 DP2 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"287",
+		"name":"Removable Disk0",
+		"artist":"Doin",
+		"bpm":"180",
+		"charts":"S3 S6 S15 D5 D16 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"286",
+		"name":"Leakage Voltage",
+		"artist":"Doin",
+		"bpm":"180",
+		"charts":"S10 S15 S17 S20 D12 D19 D22 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"285",
+		"name":"Amphitryon",
+		"artist":"Gentle Stick",
+		"bpm":"150",
+		"charts":"S6 S11 S18 D12 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"284",
+		"name":"Hestia",
+		"artist":"Gentle Stick",
+		"bpm":"150",
+		"charts":"S4 S7 S10 S18 D11 D20 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"283",
+		"name":"Mad5cience",
+		"artist":"Paul Bazooka",
+		"bpm":"130",
+		"charts":"S5 S16 S20 D7 D16 DP5",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"282",
+		"name":"Meteorize",
+		"artist":"Paul Bazooka",
+		"bpm":"136",
+		"charts":"S3 S5 S10 S15 S17 D8 D16 D18 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"281",
+		"name":"B2",
+		"artist":"MAX",
+		"bpm":"158",
+		"charts":"S4 S7 S11 S16 S18 D13 D19 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"280",
+		"name":"You Got Me Crazy",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S4 S6 S9 S17 S18 D5 D18 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"279",
+		"name":"Requiem",
+		"artist":"MAX",
+		"bpm":"160",
+		"charts":"S4 S7 S11 S16 S19 D9 D19 D23 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"278",
+		"name":"Force of Ra",
+		"artist":"Memme",
+		"bpm":"180",
+		"charts":"S7 S12 S17 S19 D12 D20 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"277",
+		"name":"Avalanche",
+		"artist":"Memme",
+		"bpm":"175",
+		"charts":"S4 S6 S9 S18 S22 D10 D19 D24 DP3 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"276",
+		"name":"Chinese restaurant",
+		"artist":"Memme",
+		"bpm":"175",
+		"charts":"S4 S7 S10 S16 S18 D10 D17 D20 DP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"275",
+		"name":"Silhouette_Effect",
+		"artist":"Nato",
+		"bpm":"167",
+		"charts":"S4 S7 S10 S18 D12 D20 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"274",
+		"name":"Yog-Sothoth",
+		"artist":"Nato",
+		"bpm":"200",
+		"charts":"S9 S18 S21 S23 D17 D23 D25 DP5 COOP3",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"273",
+		"name":"Elysium",
+		"artist":"Warak",
+		"bpm":"128",
+		"charts":"S4 S8 S15 D10 D16 DP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"272",
+		"name":"Latino Virus",
+		"artist":"Warak",
+		"bpm":"170",
+		"charts":"S3 S7 S9 S17 D12 D19 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"271",
+		"name":"Katkoi",
+		"artist":"M2U",
+		"bpm":"180",
+		"charts":"S7 S10 S14 S18 D12 D15 D19 DP4",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"270",
+		"name":"Nemesis",
+		"artist":"M2U",
+		"bpm":"160",
+		"charts":"S4 S7 S11 S16 S18 D12 D20 DP4 COOP2",
+		"channel":"ARCADE",
+		"game":"PRIME",
+		"available":"YES"
+	},
+	{
+		"id":"269",
+		"name":"U Got Me Rocking",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S17 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"268",
+		"name":"Unique",
+		"artist":"SHK",
+		"bpm":"145",
+		"charts":"S18 D16",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"267",
+		"name":"FFF",
+		"artist":"Doin",
+		"bpm":"200",
+		"charts":"S18 D21",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"266",
+		"name":"Ignis Fatuus(DM Ashura Mix)",
+		"artist":"DM Ashura",
+		"bpm":"220",
+		"charts":"S21 D21",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"265",
+		"name":"Passacaglia",
+		"artist":"SynthWulf",
+		"bpm":"175",
+		"charts":"S17 D18",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"264",
+		"name":"Pop The Track",
+		"artist":"J-Mi & Midi-D",
+		"bpm":"160",
+		"charts":"S18 D16",
+		"channel":"SHORTCUT",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"263",
+		"name":"What Are You Doin'?",
+		"artist":"Doin & MAX",
+		"bpm":"200",
+		"charts":"S19 D24",
+		"channel":"REMIX",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"262",
+		"name":"Infinity RMX",
+		"artist":"SynthWulf & MAX",
+		"bpm":"175",
+		"charts":"S20 D20",
+		"channel":"REMIX",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"261",
+		"name":"Mental Rider",
+		"artist":"SQUAR",
+		"bpm":"120-140",
+		"charts":"S12 S16 S21 D13 D19 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"260",
+		"name":"Yeo rae a",
+		"artist":"SID SOUND",
+		"bpm":"90.01",
+		"charts":"S1 S3 S5 S8 S13 D5 D12",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"259",
+		"name":"Fllow me",
+		"artist":"SHK",
+		"bpm":"155",
+		"charts":"S4 S6 S9 S14 S17 D9 D18 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"258",
+		"name":"Windmill",
+		"artist":"Yak Won",
+		"bpm":"246",
+		"charts":"S8 S13 S17 S21 D14 D18 D24",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"257",
+		"name":"Log In",
+		"artist":"SHK",
+		"bpm":"140",
+		"charts":"S4 S7 S10 S18 S21 D10 D20",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"256",
+		"name":"Sugar Eyes",
+		"artist":"Sugar Eyes",
+		"bpm":"122",
+		"charts":"S1 S3 S6 S8 S10 S13 D4 D9",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"255",
+		"name":"Dam",
+		"artist":"Ben Chalatit",
+		"bpm":"141",
+		"charts":"S1 S3 S5 S8 D4 D9",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"254",
+		"name":"Online",
+		"artist":"Saykoji",
+		"bpm":"118",
+		"charts":"S1 S4 S6 S15 D4 D15",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"253",
+		"name":"Sik Asik",
+		"artist":"Ayu Ting Ting",
+		"bpm":"147",
+		"charts":"S3 S5 S8 S13 D4 D14",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"252",
+		"name":"Lucid(PIU Edit)",
+		"artist":"Yak Won",
+		"bpm":"40-190",
+		"charts":"S4 S7 S10 S16 S20 D11 D20 D23 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"251",
+		"name":"U Got Me Rocking",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S3 S6 S8 S17 S18 D4 D17 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"250",
+		"name":"D",
+		"artist":"MAX",
+		"bpm":"180",
+		"charts":"S4 S7 S9 S18 D11 D18 D19",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"249",
+		"name":"Accident",
+		"artist":"MAX",
+		"bpm":"183",
+		"charts":"S4 S7 S10 S19 D11 D20",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"248",
+		"name":"Unique",
+		"artist":"SHK",
+		"bpm":"145",
+		"charts":"S3 S6 S10 S15 S17 D12 D16 D19",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"247",
+		"name":"FFF",
+		"artist":"Doin",
+		"bpm":"200",
+		"charts":"S10 S17 S23 D12 D22 D24 COOP3",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"246",
+		"name":"Hypnosis(SynthWulf Mix)",
+		"artist":"BanYa & SynthWulf",
+		"bpm":"175",
+		"charts":"S8 S11 S17 S21 D13 D15 D20",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"245",
+		"name":"Love Is A Danger Zone(Cranky Mix)",
+		"artist":"BanYa & Cranky",
+		"bpm":"155",
+		"charts":"S6 S12 S18 S20 S22 D8 D16 D20 D24 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"244",
+		"name":"Ignis Fatuus(DM Ashura Mix)",
+		"artist":"BanYa & DM Ashura",
+		"bpm":"220",
+		"charts":"S9 S15 S19 S23 D15 D17 D19 D23 D25 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"243",
+		"name":"Elise",
+		"artist":"DM Ashura",
+		"bpm":"162",
+		"charts":"S4 S7 S10 S17 S19 S22 D13 D16 D23 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"242",
+		"name":"Baroque Virus",
+		"artist":"Zircon",
+		"bpm":"135",
+		"charts":"S5 S9 S17 D11 D18 D20",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"241",
+		"name":"Passacaglia",
+		"artist":"SynthWulf",
+		"bpm":"175",
+		"charts":"S4 S7 S10 S16 S20 D12 D17 D22 D24",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"240",
+		"name":"Pop The Track",
+		"artist":"J-Mi & Midi-D",
+		"bpm":"160",
+		"charts":"S2 S7 S9 S16 S19 D9 D18 D20 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"239",
+		"name":"VVV",
+		"artist":"ZiGZaG",
+		"bpm":"310",
+		"charts":"S18 S23 D16 D19",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"238",
+		"name":"Dream To Nightmare",
+		"artist":"Nightmare",
+		"bpm":"178",
+		"charts":"S19 S21 S22 D22 D24",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"237",
+		"name":"Star Command",
+		"artist":"Zircon",
+		"bpm":"155",
+		"charts":"S3 S5 S12 S15 S19 D14 D21 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"236",
+		"name":"Be Alive (Raaban Inc. Mix)",
+		"artist":"Stian K",
+		"bpm":"142",
+		"charts":"S2 S5 S8 S15 S17 D10 D16 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"235",
+		"name":"Xuxa",
+		"artist":"Smiley",
+		"bpm":"160",
+		"charts":"S3 S5 S9 S14 D12 D18 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"234",
+		"name":"Utopia",
+		"artist":"Smiley",
+		"bpm":"166",
+		"charts":"S4 S7 S9 S17 D9 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"233",
+		"name":"Rainspark",
+		"artist":"Sanxion7",
+		"bpm":"125",
+		"charts":"S2 S5 S9 S15 D5 D17",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"232",
+		"name":"Heel and Toe",
+		"artist":"KURi-ZiLL",
+		"bpm":"185",
+		"charts":"S2 S7 S9 S17 D11 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"231",
+		"name":"RE-RAVE",
+		"artist":"KURi-ZiLL",
+		"bpm":"146",
+		"charts":"S2 S6 S11 S16 S17 D12 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"230",
+		"name":"Take Me Back",
+		"artist":"KaW",
+		"bpm":"172",
+		"charts":"S3 S7 S9 S17 D10 D16",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"229",
+		"name":"Virtual Emotion",
+		"artist":"Inspector K",
+		"bpm":"180",
+		"charts":"S3 S7 S11 S17 D18 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"228",
+		"name":"Tribe Attacker",
+		"artist":"Hi-G",
+		"bpm":"150",
+		"charts":"S3 S6 S9 S16 D10 D15 COOP4",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"227",
+		"name":"Rippin' It Up",
+		"artist":"Future Funk Squad",
+		"bpm":"128",
+		"charts":"S2 S5 S9 S16 D4 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"226",
+		"name":"Hardkore of the North",
+		"artist":"Diclonius Kid",
+		"bpm":"190",
+		"charts":"S4 S7 S11 S21 D16 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"225",
+		"name":"Ladybug",
+		"artist":"Coconut",
+		"bpm":"133",
+		"charts":"S1 S3 S5 S13 D13 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"224",
+		"name":"Switchback",
+		"artist":"Celldweller",
+		"bpm":"112",
+		"charts":"S3 S5 S9 S15 S18 D10 D16 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"223",
+		"name":"Rockhill",
+		"artist":"Beltaine",
+		"bpm":"140",
+		"charts":"S3 S6 S11 S16 D12 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"222",
+		"name":"Y2Z",
+		"artist":"Affinity",
+		"bpm":"162",
+		"charts":"S3 S6 S9 S16 D9 D17",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D23", "price": "2,990 PP" }
+		]
+	},
+	{
+		"id":"221",
+		"name":"Monolith",
+		"artist":"Affinity",
+		"bpm":"196",
+		"charts":"S3 S5 S9 S16 D13 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA 2",
+		"available":"YES"
+	},
+	{
+		"id":"220",
+		"name":"Jonathan's Dream",
+		"artist":"MAX&Seorryang (SID-SOUND)",
+		"bpm":"140",
+		"charts":"S8 S16 D10 D15",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"219",
+		"name":"Rave Until The Night Is Over",
+		"artist":"DM Ashura feat. MC Jay & Veronica",
+		"bpm":"144",
+		"charts":"S2 S5 S9 S15 SP3 D11 D17 DP4",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"218",
+		"name":"ASDF",
+		"artist":"Doin",
+		"bpm":"170",
+		"charts":"S9 S17 D10 D17",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"217",
+		"name":"Pine Nut",
+		"artist":"Doin",
+		"bpm":"200",
+		"charts":"S13 S20 D16",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"216",
+		"name":"Pavane",
+		"artist":"V.A.",
+		"bpm":"160",
+		"charts":"S3 S6 S10 S17 SP2 D16 D22",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"215",
+		"name":"X-Rave",
+		"artist":"DM Ashura",
+		"bpm":"147",
+		"charts":"S16 D18",
+		"channel":"SHORTCUT",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"214",
+		"name":"Overblow",
+		"artist":"MAX",
+		"bpm":"155",
+		"charts":"S18 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"213",
+		"name":"Take Out",
+		"artist":"SHK",
+		"bpm":"170",
+		"charts":"S18 D19",
+		"channel":"SHORTCUT",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"212",
+		"name":"Cleaner",
+		"artist":"Doin",
+		"bpm":"203",
+		"charts":"S21 D20",
+		"channel":"SHORTCUT",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"211",
+		"name":"Trotpris",
+		"artist":"Doin",
+		"bpm":"156",
+		"charts":"S14 D15",
+		"channel":"SHORTCUT",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"210",
+		"name":"Crashday",
+		"artist":"Crash",
+		"bpm":"220",
+		"charts":"S22 D22",
+		"channel":"FULL SONG",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"209",
+		"name":"Interference",
+		"artist":"Doin",
+		"bpm":"180",
+		"charts":"S18 D15 D18",
+		"channel":"FULL SONG",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"208",
+		"name":"Everybody Got 2 Know",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S19 D18",
+		"channel":"REMIX",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"207",
+		"name":"Vacuum Cleaner",
+		"artist":"Doin",
+		"bpm":"222.22",
+		"charts":"S15 S20 S25 D20 D27",
+		"channel":"REMIX",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"206",
+		"name":"Necromancy",
+		"artist":"Zircon",
+		"bpm":"173",
+		"charts":"S4 S7 S10 S18 S20 SP2 D13 D19 D24 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"205",
+		"name":"Smells Like A Chocolate",
+		"artist":"Vospi",
+		"bpm":"175",
+		"charts":"S4 S6 S9 S16 SP1 D12 D17 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"204",
+		"name":"Native",
+		"artist":"SHK",
+		"bpm":"135",
+		"charts":"S3 S5 S9 S17 S20 SP2 D10 D18 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"203",
+		"name":"X-Rave",
+		"artist":"DM Ashura",
+		"bpm":"147",
+		"charts":"S3 S6 S9 S17 SP2 D11 D20 DP6",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"202",
+		"name":"The Devil",
+		"artist":"Banya Production",
+		"bpm":"130-240",
+		"charts":"S4 S6 S9 S12 S20 D13 D21 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"201",
+		"name":"Hungarian Dance V",
+		"artist":"Banya Production",
+		"bpm":"145",
+		"charts":"S4 S6 S8 S17 S18 SP2 D9 D17",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"200",
+		"name":"Allegro Con Fuoco",
+		"artist":"DM Ashura",
+		"bpm":"156",
+		"charts":"S4 S7 S11 S17 S22 SP1 D9 D18 D23 DP6",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"199",
+		"name":"Gargoyle",
+		"artist":"Sanxion7",
+		"bpm":"150",
+		"charts":"S4 S7 S9 S18 S22 SP2 D12 D20 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"198",
+		"name":"What Happened",
+		"artist":"Throwdown",
+		"bpm":"130",
+		"charts":"S3 S7 S12 S17 S20 D20 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"197",
+		"name":"Crashday",
+		"artist":"Crash",
+		"bpm":"220",
+		"charts":"S4 S6 S11 S17 S23 S24 D17 D26",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"196",
+		"name":"We Got 2 Know",
+		"artist":"MAX",
+		"bpm":"128",
+		"charts":"S1 S5 S8 S17 S20 SP2 D4 D18 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"195",
+		"name":"Overblow",
+		"artist":"MAX",
+		"bpm":"155",
+		"charts":"S4 S7 S10 S16 S18 S20 SP2 D12 D18 D20 DP3 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"194",
+		"name":"Butterfly",
+		"artist":"MAX & Rorychesell (SID-SOUND)",
+		"bpm":"128",
+		"charts":"S3 S6 S8 S13 S16 SP2 D7 D17 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"193",
+		"name":"Take Out",
+		"artist":"SHK",
+		"bpm":"170",
+		"charts":"S4 S7 S11 S17 S20 D13 D19 D22 D23 COOP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"192",
+		"name":"Reality",
+		"artist":"SHK",
+		"bpm":"135",
+		"charts":"S3 S6 S8 S14 S17 SP4 D4 D15 DP2",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"191",
+		"name":"Interference",
+		"artist":"Doin",
+		"bpm":"180",
+		"charts":"S11 S18 SP2 D12 D19 D21 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"190",
+		"name":"Cleaner",
+		"artist":"Doin",
+		"bpm":"203",
+		"charts":"S4 S7 S12 S18 S22 S23 D20 D24 D26",
+		"channel":"ARCADE",
+		"game":"FIESTA EX",
+		"available":"YES"
+	},
+	{
+		"id":"189",
+		"name":"Dieciseis",
+		"artist":"Nina Pilots",
+		"bpm":"143",
+		"charts":"S2 S4 S6 S13 D5 D15",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"188",
+		"name":"Napalm",
+		"artist":"Doin",
+		"bpm":"185",
+		"charts":"S13 S19 S22 D14 D23",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"187",
+		"name":"Tepris",
+		"artist":"Doin",
+		"bpm":"145",
+		"charts":"S2 S4 S7 S16 D9 D18 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"186",
+		"name":"Procedimientos Para Llegar A Un Común Acuerdo",
+		"artist":"PXNDX",
+		"bpm":"160",
+		"charts":"S18 D16",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"185",
+		"name":"Destination",
+		"artist":"SHK",
+		"bpm":"150",
+		"charts":"S9 S15 D18 D20",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"184",
+		"name":"Pumptris 8Bit ver.",
+		"artist":"YAHPP",
+		"bpm":"162",
+		"charts":"S8 S16 D22",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"183",
+		"name":"Bemera",
+		"artist":"YAHPP",
+		"bpm":"210",
+		"charts":"S13 S21 S23 D19",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"182",
+		"name":"K.O.A : Alice In Wonderworld",
+		"artist":"Banya Production",
+		"bpm":"156",
+		"charts":"S8 S16 D18",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"181",
+		"name":"NX Opening",
+		"artist":"YAHPP",
+		"bpm":"133",
+		"charts":"S16 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"180",
+		"name":"Exceed2 Opening",
+		"artist":"Banya",
+		"bpm":"178",
+		"charts":"S15 D19",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"179",
+		"name":"Witch Doctor",
+		"artist":"Banya",
+		"bpm":"195",
+		"charts":"S14 S20 D16",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"178",
+		"name":"Moonlight",
+		"artist":"Banya",
+		"bpm":"180",
+		"charts":"S16 S18 D20",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"177",
+		"name":"Solitary 2",
+		"artist":"Banya",
+		"bpm":"136",
+		"charts":"S18 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"176",
+		"name":"Winter",
+		"artist":"Banya",
+		"bpm":"168",
+		"charts":"S6 S9 S16 D10 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"175",
+		"name":"CHICKEN WING",
+		"artist":"Banya",
+		"bpm":"200",
+		"charts":"S20 D13",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"174",
+		"name":"Extravaganza",
+		"artist":"Banya",
+		"bpm":"195",
+		"charts":"S14 SP15 D14 D21",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"173",
+		"name":"Love is a Danger Zone pt. 2",
+		"artist":"Banya",
+		"bpm":"162",
+		"charts":"S8 S19 D21",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"172",
+		"name":"Love is a Danger Zone",
+		"artist":"Banya",
+		"bpm":"140",
+		"charts":"S13 S20 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"171",
+		"name":"Final Audition Ep. 2-X",
+		"artist":"YAHPP",
+		"bpm":"170",
+		"charts":"S20 D19",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"170",
+		"name":"Final Audition 3",
+		"artist":"Banya",
+		"bpm":"130",
+		"charts":"S17 D16",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"169",
+		"name":"Final Audition 2",
+		"artist":"Banya",
+		"bpm":"130",
+		"charts":"S16 D17",
+		"channel":"SHORTCUT",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"168",
+		"name":"Dawn of The Apocalypse",
+		"artist":"Vassline",
+		"bpm":"100-210",
+		"charts":"S15 S21",
+		"channel":"FULL SONG",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"167",
+		"name":"NARCISISTA POR EXCELENCIA",
+		"artist":"PXNDX",
+		"bpm":"164",
+		"charts":"S17 D18",
+		"channel":"FULL SONG",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"166",
+		"name":"Deja Vu",
+		"artist":"SOM2",
+		"bpm":"115",
+		"charts":"S7 S16 D16",
+		"channel":"FULL SONG",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"165",
+		"name":"msgoon RMX pt.6",
+		"artist":"msgoon",
+		"bpm":"150",
+		"charts":"S20 D19",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"164",
+		"name":"msgoon RMX pt.5",
+		"artist":"msgoon",
+		"bpm":"102",
+		"charts":"S17 SP3 D17 DP4",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"163",
+		"name":"Set Up Me2 Mix",
+		"artist":"Banya Production",
+		"bpm":"122",
+		"charts":"S17",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"162",
+		"name":"Pro POP Mix",
+		"artist":"Banya Production",
+		"bpm":"151",
+		"charts":"S17",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"161",
+		"name":"Hard Core Rock Mix",
+		"artist":"Banya Production",
+		"bpm":"196",
+		"charts":"S18 S21",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"160",
+		"name":"B.P Classic Remix 2",
+		"artist":"Banya Production",
+		"bpm":"180",
+		"charts":"S11 S18",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"159",
+		"name":"PaPa helloizing",
+		"artist":"Banya Production",
+		"bpm":"145-158",
+		"charts":"S8 S19",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"158",
+		"name":"B.P Classic Remix",
+		"artist":"Banya Production",
+		"bpm":"164",
+		"charts":"S12 S18 D13 D19",
+		"channel":"REMIX",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"157",
+		"name":"Pumping Jumping",
+		"artist":"Banya Production",
+		"bpm":"116",
+		"charts":"S1 S3 S5 S13 S15 S17 S19 SP4 D6 D17 DP5 DP6",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"156",
+		"name":"Mission Possible -Blow Back-",
+		"artist":"Banya Production",
+		"bpm":"128",
+		"charts":"S18 SP3 D17 DP5",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"155",
+		"name":"Phantom -Intermezzo-",
+		"artist":"Banya Production",
+		"bpm":"140",
+		"charts":"S3 S7 S12 S15 S19 S21 D15 D19 D20 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"154",
+		"name":"Get Up (and go)",
+		"artist":"Banya Production",
+		"bpm":"164",
+		"charts":"S4 S7 S10 S17 D11 D20 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"153",
+		"name":"Turkey March -Minimal Tunes-",
+		"artist":"Banya Production",
+		"bpm":"130",
+		"charts":"S3 S6 S8 S17 D10 D18 DP1",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"152",
+		"name":"Hello William",
+		"artist":"Banya Production",
+		"bpm":"170",
+		"charts":"S4 S6 S9 S17 S19 D9 D21",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"151",
+		"name":"Tek -Club Copenhagen-",
+		"artist":"Banya Production",
+		"bpm":"132",
+		"charts":"S3 S5 S16 S17 SP5 D17 DP4",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"150",
+		"name":"Arirang",
+		"artist":"Banya Production",
+		"bpm":"160",
+		"charts":"S9 S18 S22 D10 D20 DP2",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"149",
+		"name":"Xenesis",
+		"artist":"Banya Production",
+		"bpm":"152",
+		"charts":"S4 S7 S10 S18 SP1 D12 D15 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"148",
+		"name":"Do It Reggae Style",
+		"artist":"Banya Production",
+		"bpm":"96",
+		"charts":"S13 SP4 D15 DP5",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"147",
+		"name":"NARCISISTA POR EXCELENCIA",
+		"artist":"PXNDX",
+		"bpm":"164",
+		"charts":"S3 S5 S8 S16 D9 D18",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"146",
+		"name":"Vacuum",
+		"artist":"Doin",
+		"bpm":"200",
+		"charts":"S19 S21 S23 D22 D25 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"145",
+		"name":"Destination",
+		"artist":"SHK",
+		"bpm":"150",
+		"charts":"S4 S7 S11 S16 S18 S19 D13 D20 DP5",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"144",
+		"name":"U Got 2 Know",
+		"artist":"MAX",
+		"bpm":"127",
+		"charts":"S2 S7 S8 S17 S18 S19 SP2 D18 DP4",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"143",
+		"name":"Betrayer -act.2-",
+		"artist":"msgoon",
+		"bpm":"92",
+		"charts":"S4 S6 S10 SP3 D15 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"142",
+		"name":"Sorceress Eliese",
+		"artist":"YAHPP",
+		"bpm":"158",
+		"charts":"S4 S6 S8 S10 S15 S18 S21 S23 D8 D17 D24 COOP2",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"141",
+		"name":"XTREE",
+		"artist":"YAHPP",
+		"bpm":"190",
+		"charts":"S3 S7 S12 S20 SP2 D14 D18 D22 DP3",
+		"channel":"ARCADE",
+		"game":"FIESTA",
+		"available":"YES"
+	},
+	{
+		"id":"140",
+		"name":"Pumptris 8Bit ver.",
+		"artist":"YAHPP",
+		"bpm":"162",
+		"charts":"S3 S5 S8 S16 S17 SP15 COOP2",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"139",
+		"name":"Trato De No Trabarme",
+		"artist":"Big metra",
+		"bpm":"105",
+		"charts":"S10 S22 D24",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"138",
+		"name":"Digan Lo Que Digan",
+		"artist":"Nina Pilots",
+		"bpm":"162",
+		"charts":"S7 S18",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"137",
+		"name":"Procedimientos Para Llegar A Un Común Acuerdo",
+		"artist":"PXNDX",
+		"bpm":"160",
+		"charts":"S6 S17 D7",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"136",
+		"name":"Panuelito Rojo",
+		"artist":"Big metra",
+		"bpm":"98",
+		"charts":"S9 S16 D18",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"135",
+		"name":"Chopsticks Challenge",
+		"artist":"YAHPP",
+		"bpm":"128",
+		"charts":"S15 D19",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"134",
+		"name":"msgoon RMX pt.3",
+		"artist":"msgoon",
+		"bpm":"168",
+		"charts":"S6 S17 D11 D20",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"133",
+		"name":"msgoon RMX pt.1",
+		"artist":"msgoon",
+		"bpm":"120",
+		"charts":"S7 S17 D17",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"132",
+		"name":"Turkey Virus",
+		"artist":"Banya Production",
+		"bpm":"150-162",
+		"charts":"S8 S15 D11",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"131",
+		"name":"Big metra Remix",
+		"artist":"Big metra",
+		"bpm":"105",
+		"charts":"S5 S19 D17",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"130",
+		"name":"Nina Pxndx Mix",
+		"artist":"Nina Pilots & PXNDX",
+		"bpm":"160",
+		"charts":"S6 S16 D8",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"129",
+		"name":"Dr.KOA",
+		"artist":"Banya Production",
+		"bpm":"156",
+		"charts":"S8 S18 D20",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"128",
+		"name":"Caprice of DJ Otada",
+		"artist":"Banya Production",
+		"bpm":"180",
+		"charts":"S11 S19 D22 D25",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"127",
+		"name":"The People didn't know “Pumping up”",
+		"artist":"Banya Production",
+		"bpm":"134",
+		"charts":"S7 D4 D17",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"126",
+		"name":"Final Audition Ep. 2-X",
+		"artist":"YAHPP",
+		"bpm":"170",
+		"charts":"S3 S5 S8 S17 S23 D21 D24 DP2",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"125",
+		"name":"Dawn of The Apocalypse",
+		"artist":"Vassline",
+		"bpm":"160-210",
+		"charts":"S4 S14 S21 D14 D21",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"124",
+		"name":"Toccata",
+		"artist":"Banya Production",
+		"bpm":"104",
+		"charts":"S4 S7 S10 S17 SP3 D14 D17 DP6",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"123",
+		"name":"My Dreams",
+		"artist":"Banya Production",
+		"bpm":"136",
+		"charts":"S4 S10 S17 S18 D18 DP5",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"122",
+		"name":"K.O.A : Alice In Wonderworld",
+		"artist":"Banya Production",
+		"bpm":"156",
+		"charts":"S2 S3 S5 S8 S17 D10 D18",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"121",
+		"name":"DJ Otada",
+		"artist":"Banya Production",
+		"bpm":"180",
+		"charts":"S4 S6 S8 S19 D14 D22",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"120",
+		"name":"The People didn't know",
+		"artist":"Banya Production",
+		"bpm":"134",
+		"charts":"S2 S5 S12 S15 D7 D17",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"119",
+		"name":"Digan Lo Que Digan",
+		"artist":"Nina Pilots",
+		"bpm":"162",
+		"charts":"S3 S4 S6 S7 S9 S16 D13 D18 DP8",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"118",
+		"name":"Procedimientos Para Llegar A Un Común Acuerdo",
+		"artist":"PXNDX",
+		"bpm":"160",
+		"charts":"S3 S7 S15 S18 D7 D16 D19",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"117",
+		"name":"Panuelito Rojo",
+		"artist":"Big metra",
+		"bpm":"98",
+		"charts":"S5 S10 SP1 D18 DP4",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"116",
+		"name":"Chopsticks Challenge",
+		"artist":"YAHPP",
+		"bpm":"128",
+		"charts":"S6 S17 SP1 D3 D16",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"115",
+		"name":"Cannon X.1",
+		"artist":"YAHPP",
+		"bpm":"185",
+		"charts":"S3 S7 S10 S20 S21 D13 D22",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"114",
+		"name":"Blaze Emotion",
+		"artist":"YAHPP",
+		"bpm":"170",
+		"charts":"S2 S3 S6 S7 S9 S16 S17 D10 D17 D18",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"113",
+		"name":"Money Fingers",
+		"artist":"Banya Production",
+		"bpm":"170",
+		"charts":"S8 S16 D9 D17",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"112",
+		"name":"Banya-P Guitar Remix",
+		"artist":"Banya Production",
+		"bpm":"120",
+		"charts":"S22 D24",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"111",
+		"name":"Energizer",
+		"artist":"Zig Zag",
+		"bpm":"151",
+		"charts":"S4 S7 S9 S16 SP2 D11 D17",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"110",
+		"name":"Dance Vibrations",
+		"artist":"Elpis",
+		"bpm":"130",
+		"charts":"S4 S5 S10 S14 SP1 D15 D18 DP6",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"109",
+		"name":"Dance All Night",
+		"artist":"OscillatorX",
+		"bpm":"140",
+		"charts":"S5 S13 SP2 D15",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"108",
+		"name":"Jam O Beat",
+		"artist":"Banya Production",
+		"bpm":"120",
+		"charts":"S7 S14 SP2 D14 DP6",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"107",
+		"name":"Higgledy Piggledy",
+		"artist":"Banya Production",
+		"bpm":"150",
+		"charts":"S2 S6 S9 S14 S16 SP1 D8 D15",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"106",
+		"name":"Guitar Man",
+		"artist":"Banya Production",
+		"bpm":"120",
+		"charts":"S3 S9 S13 S18 D10 D13 D19",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"105",
+		"name":"Pumptris Quattro",
+		"artist":"YAHPP",
+		"bpm":"153",
+		"charts":"S3 S7 S12 S17 S19 SP10 D13 D20 D22 DP2",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"104",
+		"name":"Faster Z",
+		"artist":"YAHPP",
+		"bpm":"162",
+		"charts":"S6 S8 S12 S16 S19 S20 D14 D20 D23",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"103",
+		"name":"Monkey Fingers 2",
+		"artist":"Banya Production",
+		"bpm":"180",
+		"charts":"S6 S10 S17 D9 D19",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"102",
+		"name":"Money",
+		"artist":"Banya Production",
+		"bpm":"130",
+		"charts":"S10 S14 SP4 D12 D16",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"101",
+		"name":"Caprice of Otada",
+		"artist":"Banya Production",
+		"bpm":"160",
+		"charts":"S4 S6 S8 S17 D10 D18 D21",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "S19", "price": "1,520 PP" }
+		]
+	},
+	{
+		"id":"100",
+		"name":"Beat the ghost",
+		"artist":"Banya Production",
+		"bpm":"124",
+		"charts":"S3 S9 S18 S20 D7 D20",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"99",
+		"name":"Solitary 1.5",
+		"artist":"YAHPP",
+		"bpm":"136",
+		"charts":"S7 S16 SP4 D18 DP6",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"98",
+		"name":"Beat of The War 2 Full song",
+		"artist":"YAHPP",
+		"bpm":"120-190",
+		"charts":"S19 D20",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"97",
+		"name":"Love is a Danger Zone 2 Full song",
+		"artist":"YAHPP",
+		"bpm":"100-162",
+		"charts":"S19 D21",
+		"channel":"FULL SONG",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"96",
+		"name":"BEMERA",
+		"artist":"YAHPP",
+		"bpm":"210",
+		"charts":"S16 S24 D18 D26",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"95",
+		"name":"WI-EX-DOC-VA",
+		"artist":"YAHPP",
+		"bpm":"195",
+		"charts":"S15 S21 D15 D23",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"94",
+		"name":"Final Audition Ep. 2-2",
+		"artist":"YAHPP",
+		"bpm":"200",
+		"charts":"S7 S16 S17 S21 S22 D18 D23 D24",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"93",
+		"name":"Final Audition Ep. 2-1",
+		"artist":"YAHPP",
+		"bpm":"170",
+		"charts":"S3 S4 S7 S18 S20 S21 D9 D21 D22",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"92",
+		"name":"Ugly Dee",
+		"artist":"Banya Production",
+		"bpm":"92",
+		"charts":"S3 S5 S2009 D11 D15",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"91",
+		"name":"Bullfighter's Song",
+		"artist":"Banya Production",
+		"bpm":"168",
+		"charts":"S4 S5 S8 S16 D9 D17 D21",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"90",
+		"name":"Gun Rock",
+		"artist":"Banya Production",
+		"bpm":"104",
+		"charts":"S5 S11 S17 S18 D11 D18 D22",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"89",
+		"name":"Do U Know That-Old School",
+		"artist":"Banya Production",
+		"bpm":"120",
+		"charts":"S4 S6 S14 D18 DP8",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"88",
+		"name":"2006. LOVE SONG",
+		"artist":"Banya Production",
+		"bpm":"96",
+		"charts":"S3 S10 S12 S15 D13 DP5",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"87",
+		"name":"Chimera",
+		"artist":"YAHPP",
+		"bpm":"210",
+		"charts":"S4 S7 S11 S16 S18 S23 D16 D25 COOP2",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"86",
+		"name":"Arch of Darkness",
+		"artist":"Yahpp",
+		"bpm":"135",
+		"charts":"S2 S4 S5 S8 S14 S16 D7 D18",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"85",
+		"name":"Witch Doctor #1",
+		"artist":"Yahpp",
+		"bpm":"122",
+		"charts":"S2 S5 S8 S9 S15 S16 S18 SP3 D20 D17 D19 DP7",
+		"channel":"ARCADE",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"83",
+		"name":"Love is a Danger Zone 2 Try To B.P.M",
+		"artist":"BanYa",
+		"bpm":"",
+		"charts":"S12 S20 D14 D23",
+		"channel":"REMIX 140~169",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"82",
+		"name":"Chung Hwa Ban Jeom",
+		"artist":"Louis",
+		"bpm":"149",
+		"charts":"S4 S6 S9 S14 SP1 D16 DP2",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"81",
+		"name":"Papa Gonzales",
+		"artist":"BanYa",
+		"bpm":"145",
+		"charts":"S4 S6 S8 S14 D7 D18",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"80",
+		"name":"Phantom",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S2 S7 S12 S17 S18 D12 D19 D20 DP7",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"79",
+		"name":"Love is a Danger Zone pt. 2",
+		"artist":"BanYa",
+		"bpm":"162",
+		"charts":"S4 S7 S9 S15 S16 S17 S21 D17 D23 COOP2",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"78",
+		"name":"Witch Doctor",
+		"artist":"BanYa",
+		"bpm":"195",
+		"charts":"S4 S6 S10 S16 S19 S21 D19 D22 D23",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"77",
+		"name":"Moonlight",
+		"artist":"BanYa",
+		"bpm":"180",
+		"charts":"S4 S7 S10 S18 S19 D11 D20 D21",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"76",
+		"name":"Beat of The War 2",
+		"artist":"BanYa",
+		"bpm":"120-190",
+		"charts":"S4 S5 S6 S10 S16 D12 D19",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"75",
+		"name":"Canon D FULL Song MIX",
+		"artist":"Banya",
+		"bpm":"160",
+		"charts":"S11 S16 D23 D24",
+		"channel":"FULL SONG",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"74",
+		"name":"BANYA HIPHOP REMIX",
+		"artist":"BanYa",
+		"bpm":"99",
+		"charts":"S6 S7 D20 DP6",
+		"channel":"REMIX",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"73",
+		"name":"Banya Classic Remix",
+		"artist":"BanYa",
+		"bpm":"162-170",
+		"charts":"S7 S19 D11 D20",
+		"channel":"REMIX",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"72",
+		"name":"Tream Vook of the war",
+		"artist":"BanYa",
+		"bpm":"184-202",
+		"charts":"S11 S19 D13 D22",
+		"channel":"REMIX",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"71",
+		"name":"Canon D",
+		"artist":"BanYa",
+		"bpm":"160",
+		"charts":"S3 S7 S9 S17 S20 S21 D10 D17 D22 COOP2",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"70",
+		"name":"Solitary 2",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S4 S6 S8 S17 SP3 D18 DP6",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"69",
+		"name":"Hi Bi",
+		"artist":"BanYa",
+		"bpm":"145",
+		"charts":"S3 S5 S8 S15 S18 D8 D18 D20",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"68",
+		"name":"J Bong",
+		"artist":"BanYa",
+		"bpm":"140",
+		"charts":"S3 S5 S7 S8 S13 D17 DP5",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"67",
+		"name":"I'll Give You All My Love",
+		"artist":"Wax",
+		"bpm":"164",
+		"charts":"S2 S4 S7 S16 D7 D18",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"66",
+		"name":"Deja Vu",
+		"artist":"SOM2",
+		"bpm":"115",
+		"charts":"S1 S3 S6 S13 D6 D13",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"65",
+		"name":"Get Up!",
+		"artist":"BanYa",
+		"bpm":"180",
+		"charts":"S4 S8 S13 D9 D17 D18",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"64",
+		"name":"X Treme",
+		"artist":"BanYa",
+		"bpm":"162",
+		"charts":"S4 S7 S9 S14 S18 D13 D19",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"63",
+		"name":"Pump Me Amadeus",
+		"artist":"BanYa",
+		"bpm":"170",
+		"charts":"S3 S5 S9 S17 D10 D18 D19",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"62",
+		"name":"Blazing",
+		"artist":"BanYa",
+		"bpm":"158",
+		"charts":"S3 S6 S9 S15 S19 D19",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"61",
+		"name":"Monkey Fingers",
+		"artist":"BanYa",
+		"bpm":"186",
+		"charts":"S3 S5 S8 S15 SP5 D17",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"60",
+		"name":"Naissance 2",
+		"artist":"BanYa",
+		"bpm":"129",
+		"charts":"S6 S13 SP3 D15 D19 DP5",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"59",
+		"name":"Final Audition 3",
+		"artist":"BanYa",
+		"bpm":"130",
+		"charts":"S2 S5 S6 S9 S14 S17 SP3 D17 D19 DP5",
+		"channel":"ARCADE",
+		"game":"EXCEED ~ ZERO",
+		"available":"YES"
+	},
+	{
+		"id":"58",
+		"name":"Come to Me",
+		"artist":"BanYa",
+		"bpm":"100-107",
+		"charts":"S4 S6 S11 S12 S15 SP3 D13 D14 DP6",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"57",
+		"name":"Beat of The War",
+		"artist":"BanYa",
+		"bpm":"140-202",
+		"charts":"S3 S5 S9 S10 S15 D12 D19",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"56",
+		"name":"Hello",
+		"artist":"BanYa",
+		"bpm":"140",
+		"charts":"S7 S16 D9 D16",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"55",
+		"name":"D Gang",
+		"artist":"BanYa",
+		"bpm":"150",
+		"charts":"S4 S6 S9 S18 D7 D15 D17",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"54",
+		"name":"Bee",
+		"artist":"BanYa",
+		"bpm":"160",
+		"charts":"S4 S7 S10 S11 S15 S19 D11 D19 D21 D23",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"53",
+		"name":"Csikos Post",
+		"artist":"BanYa",
+		"bpm":"180",
+		"charts":"S3 S7 S10 S13 D8 D16 D21",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"52",
+		"name":"Vook",
+		"artist":"BanYa",
+		"bpm":"184",
+		"charts":"S4 S7 S9 S15 S17 S20 D12 D17 D18 D19",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"51",
+		"name":"Dance with me",
+		"artist":"BanYa",
+		"bpm":"122",
+		"charts":"S2 S4 S6 S12 S14 SP4 D15 DP4 DP6",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"50",
+		"name":"Set me up",
+		"artist":"BanYa",
+		"bpm":"120",
+		"charts":"S2 S4 S6 S9 S13 SP4 DP4 DP7",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"49",
+		"name":"Miss S' story",
+		"artist":"BanYa",
+		"bpm":"111",
+		"charts":"S5 S18 SP3 D19 DP5",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"48",
+		"name":"We will meet again",
+		"artist":"BanYa",
+		"bpm":"118",
+		"charts":"S3 S8 S13 S14 D8",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"47",
+		"name":"Oy Oy Oy",
+		"artist":"BanYa",
+		"bpm":"148",
+		"charts":"S4 S6 S8 S13 SP2 D13 DP3",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"46",
+		"name":"Till the end of time",
+		"artist":"BanYa",
+		"bpm":"140",
+		"charts":"S2 S4 S9 S13 S17 D8 D13 D16 DP3",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"45",
+		"name":"Will-O'-The-Wisp",
+		"artist":"BanYa",
+		"bpm":"210",
+		"charts":"S3 S5 S10 S13 S19 D10 D13 D19 D21",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"44",
+		"name":"Winter",
+		"artist":"BanYa",
+		"bpm":"168",
+		"charts":"S4 S6 S8 S15 D11 D17 D19",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"43",
+		"name":"Top City",
+		"artist":"BanYa",
+		"bpm":"110",
+		"charts":"S4 S6 S12 D7",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"42",
+		"name":"Street show down",
+		"artist":"BanYa",
+		"bpm":"124",
+		"charts":"S7 S15 SP4 D13 DP6",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"41",
+		"name":"Point Break",
+		"artist":"BanYa",
+		"bpm":"92",
+		"charts":"S6 SP3 D14 DP6",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"40",
+		"name":"My way",
+		"artist":"BanYa",
+		"bpm":"118",
+		"charts":"S3 S5 S8 S12 SP2 D15 DP4 DP6",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D18", "price": "1,440 PP" }
+		]
+	},
+	{
+		"id":"39",
+		"name":"Mission Possible",
+		"artist":"BanYa",
+		"bpm":"124",
+		"charts":"S5 S7 S13 S19 D8",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"38",
+		"name":"Maria",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S6 S11 S15 S18 D15",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D19", "price": "1,710 PP" }
+		]
+	},
+	{
+		"id":"37",
+		"name":"Love is a Danger Zone",
+		"artist":"BanYa",
+		"bpm":"140",
+		"charts":"S3 S7 S10 S15 S19 D6 D15 D20 COOP2",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"36",
+		"name":"Get Your Groove On",
+		"artist":"BanYa",
+		"bpm":"96",
+		"charts":"S4 S6 S13 D9",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "D21", "price": "2,310 PP" }
+		]
+	},
+	{
+		"id":"35",
+		"name":"Emperor",
+		"artist":"BanYa",
+		"bpm":"150",
+		"charts":"S2 S5 S8 S11 S16 SP3 D17 DP3",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"34",
+		"name":"Dr. M",
+		"artist":"BanYa",
+		"bpm":"145",
+		"charts":"S3 S7 S9 S12 S16 D11 D16",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"33",
+		"name":"EXTRA BanYa Remix",
+		"artist":"Banya Production",
+		"bpm":"200",
+		"charts":"S8 S21 D13",
+		"channel":"REMIX",
+		"game":"NX ~ NXA",
+		"available":"YES"
+	},
+	{
+		"id":"32",
+		"name":"Final Audition Ep. 1",
+		"artist":"BanYa",
+		"bpm":"189",
+		"charts":"S4 S7 S8 S13 S15 S19 D11 D21 D23",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"31",
+		"name":"CHICKEN WING",
+		"artist":"BanYa",
+		"bpm":"200",
+		"charts":"S4 S6 S9 S10 S17 S19 S21 D11 D17 D23",
+		"channel":"ARCADE",
+		"game":"EXTRA ~ PREX3",
+		"available":"YES"
+	},
+	{
+		"id":"30",
+		"name":"Slam",
+		"artist":"Novasonic",
+		"bpm":"131",
+		"charts":"S3 S6 S9 S17 S18 D6 D20",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"29",
+		"name":"Beethoven Virus",
+		"artist":"BanYa",
+		"bpm":"162",
+		"charts":"S4 S7 S8 S13 S16 S17 D8 D18 D20 DP3",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"28",
+		"name":"All I Want For X-mas",
+		"artist":"BanYa",
+		"bpm":"130",
+		"charts":"S3 S6 S11 D7",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"27",
+		"name":"Rolling Christmas",
+		"artist":"BanYa",
+		"bpm":"142",
+		"charts":"S3 S5 S8 S13 D5 D13 D17 COOP2",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"26",
+		"name":"N",
+		"artist":"BanYa",
+		"bpm":"106",
+		"charts":"S5 S16 SP2 D16 DP5",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"25",
+		"name":"Pump Jump",
+		"artist":"BanYa",
+		"bpm":"106",
+		"charts":"S4 S15 SP2 D17 DP4",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"24",
+		"name":"Mr. Larpus",
+		"artist":"BanYa",
+		"bpm":"190",
+		"charts":"S3 S5 S11 S14 S20 S22 D14 D17 D23",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"23",
+		"name":"Solitary",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S2 S4 S6 S8 S9 S16 S17 SP3 D7 D16 D21 DP5",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"22",
+		"name":"Betrayer",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S1 S5 S8 S13 S16 SP2 D8 D13 D17",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"21",
+		"name":"First Love",
+		"artist":"BanYa",
+		"bpm":"104",
+		"charts":"S4 S9 SP1 D14 DP4",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"20",
+		"name":"Oh! Rosa",
+		"artist":"BanYa",
+		"bpm":"148",
+		"charts":"S7 S13 D7",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"19",
+		"name":"Don't Bother Me",
+		"artist":"Tashannie",
+		"bpm":"110",
+		"charts":"S4 S5 S10 SP2 D5 D13",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"18",
+		"name":"Pumping Up",
+		"artist":"BanYa",
+		"bpm":"135",
+		"charts":"S4 S12",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"17",
+		"name":"She Likes Pizza",
+		"artist":"BanYa",
+		"bpm":"230",
+		"charts":"S8 S9 D9 D16",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"16",
+		"name":"Midnight Blue",
+		"artist":"BanYa",
+		"bpm":"80",
+		"charts":"S12 SP4 D13 DP5",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"15",
+		"name":"Free Style",
+		"artist":"BanYa",
+		"bpm":"99",
+		"charts":"S13 SP1 DP3",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"14",
+		"name":"Close Your Eye",
+		"artist":"BanYa",
+		"bpm":"105",
+		"charts":"S4 SP2 DP3",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"13",
+		"name":"Nightmare",
+		"artist":"BanYa",
+		"bpm":"120",
+		"charts":"S1 S4 D13 DP5",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"12",
+		"name":"Turkey March",
+		"artist":"BanYa",
+		"bpm":"150",
+		"charts":"S3 S7 S12 S15 S18 D9 D17 D19 COOP2",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"11",
+		"name":"Naissance",
+		"artist":"BanYa",
+		"bpm":"136",
+		"charts":"S4 S7 S8 S10 S20 D7 D15",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES",
+		"unlockables": [
+			{ "chart": "S16", "price": "800 PP" }
+		]
+	},
+	{
+		"id":"10",
+		"name":"Final Audition 2",
+		"artist":"BanYa",
+		"bpm":"130",
+		"charts":"S4 S7 S8 S10 S16 D8 D17 D19 DP3",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"9",
+		"name":"Repeatorment Remix",
+		"artist":"BanYa",
+		"bpm":"150",
+		"charts":"S7 S19 D8",
+		"channel":"REMIX",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"8",
+		"name":"Mobius Strip",
+		"artist":"Sechs Kies",
+		"bpm":"106",
+		"charts":"S2 S4 S6 S12 D7 D14",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"7",
+		"name":"Com'Back",
+		"artist":"Sechs Kies",
+		"bpm":"158",
+		"charts":"S4 S6 S8 S15 D7 D16",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"6",
+		"name":"Extravaganza",
+		"artist":"BanYa",
+		"bpm":"195",
+		"charts":"S4 S7 S9 S11 S16 S21 D12 D17 D19",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"5",
+		"name":"Final Audition",
+		"artist":"BanYa",
+		"bpm":"130",
+		"charts":"S2 S6 S7 S9 S15 S17 D15 D17 DP3",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"4",
+		"name":"Another Truth",
+		"artist":"Novasonic",
+		"bpm":"136",
+		"charts":"S3 S5 S8 S15 D6 D16 D17 D22",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"3",
+		"name":"Funky Tonight",
+		"artist":"CLON",
+		"bpm":"105",
+		"charts":"S2 S4 S5 S12 D4 D14",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"2",
+		"name":"Hypnosis",
+		"artist":"BanYa",
+		"bpm":"180",
+		"charts":"S7 S15 S18 D8 D15 D18",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	},
+	{
+		"id":"1",
+		"name":"Ignition Starts",
+		"artist":"BanYa",
+		"bpm":"146",
+		"charts":"S8 S15 S18 D10 D17",
+		"channel":"ARCADE",
+		"game":"1ST ~ PERFECT COLLECTION",
+		"available":"YES"
+	}
+]

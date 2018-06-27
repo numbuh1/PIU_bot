@@ -1,0 +1,98 @@
+[
+	{
+		"song": "Me Gustas Tu",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461224886774530048/393.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S7",
+				"description": "◄",
+				"objective": "Survive until the end",
+				"mods": "Yellow Noteskin"
+			},
+			{
+				"chart": "S14",
+				"description": "►",
+				"objective": "Survive until the end",
+				"mods": "Red Noteskin"
+			},
+			{
+				"chart": "S16",
+				"description": "◄",
+				"objective": "Survive until the end",
+				"mods": "Blue Noteskin"
+			},
+			{
+				"chart": "S18",
+				"description": "Me Gusta Conrad",
+				"objective": "Survive until the end",
+				"mods": "NXA Noteskin"
+			}
+		]
+	},
+	{
+		"song": "You Again My Love",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461481259525210132/303.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S6",
+				"description": "",
+				"objective": "Clear the stage with Max Combo over 50",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "S14",
+				"description": "",
+				"objective": "Clear the stage with Max Combo over 100",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "D14",
+				"description": "",
+				"objective": "Clear the stage with Max Combo over 200",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "You Again Nimgo",
+				"objective": "Survive until the end",
+				"mods": "Zero Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Unique",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461482749128343552/248.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with life over 50%",
+				"mods": "RS, Extra Noteskin"
+			},
+			{
+				"chart": "S19",
+				"description": "Nimgo's leeds day S",
+				"objective": "Survive until the end",
+				"mods": "Extra Noteskin"
+			},
+			{
+				"chart": "D18",
+				"description": "",
+				"objective": "Clear the stage with life over 25%",
+				"mods": "RS, Extra Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "Nimgo's leeds day D",
+				"objective": "Survive until the end",
+				"mods": "Extra Noteskin"
+			}
+		]
+	}
+]
