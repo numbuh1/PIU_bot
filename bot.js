@@ -212,11 +212,22 @@ function showHelp(message) {
     message.channel.send({
         embed: {
             color: 3447003,
-            description: "★ PIU Bot Alpha 1.0 ★ List of Commands ★\n" +
-                        "========================================\n" +
-                        "・!piu song [SongName] - Get information of a song in PIU Prime 2\n" +
-                        "・!piu update [Version] - Get changelog of an update in PIU Prime 2\n(From 2.02.0 to 2.04.0)\n" +
-                        "・!piu quest [SongName] - Get information of a quest in PIU Prime 2\n(Only 'Me Gustas Tu' for now)\n",
+            title: "★ PIU Bot Alpha 1.0 ★ List of Commands ★",
+            description: "========================================",
+            fields: [
+                {
+                    name: "・!piu song [SongName]",
+                    value: "Get information of a song in PIU Prime 2"
+                },
+                {
+                    name: "・!piu update [Version]",
+                    value: "Get changelog of an update in PIU Prime 2 (2.02.0 - 2.04.0)"
+                },
+                {
+                    name: "・!piu quest [SongName]",
+                    value: "Get information of a quest in PIU Prime 2 (Chapter 8 - 9)"
+                },
+            ],
             timestamp: new Date(),
             footer: {
               text: "PIU Bot © numbuh1"

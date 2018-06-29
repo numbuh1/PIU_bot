@@ -1,4 +1,228 @@
-[
+[	
+	{
+		"song": "U Got Me Crazy",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462093570871132171/280.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with Max combo under 100",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "S18",
+				"description": "",
+				"objective": "Clear the stage with Max combo under 100",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D18",
+				"description": "",
+				"objective": "Clear the stage with Max combo under 67",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D19",
+				"description": "Osing got me crazy",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Up & Up (Produced by AWAL)",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461463244197068810/526.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S8",
+				"description": "",
+				"objective": "Clear the stage with Miss under 2",
+				"mods": "NX Noteskin"
+			},
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with Miss under 5",
+				"mods": "NX Noteskin"
+			},
+			{
+				"chart": "D18",
+				"description": "",
+				"objective": "Clear the stage with Miss under 8",
+				"mods": "NX Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "Nim & Go",
+				"objective": "Survive until the end",
+				"mods": "NX Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Karyawisata",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462094687105187851/330.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with Great over 175",
+				"mods": "FD, JH, Flower Card Noteskin"
+			},
+			{
+				"chart": "S20",
+				"description": "",
+				"objective": "Clear the stage with Max Combo under 100",
+				"mods": "FD, JH, Music Noteskin"
+			},
+			{
+				"chart": "D16",
+				"description": "",
+				"objective": "Clear the stage under C grade",
+				"mods": "FD, JH, Poker Noteskin"
+			},
+			{
+				"chart": "D21",
+				"description": "Osing's Pump Trips",
+				"objective": "Survive until the end",
+				"mods": "NXA Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Passacaglia",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462095353395544064/241.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S10",
+				"description": "",
+				"objective": "Get mine item over 200 ea.",
+				"mods": "Canon Noteskin"
+			},
+			{
+				"chart": "S16",
+				"description": "",
+				"objective": "Get mine item over 100 ea.",
+				"mods": "Canon Noteskin"
+			},
+			{
+				"chart": "S20",
+				"description": "",
+				"objective": "Get mine item over 250 ea.",
+				"mods": "Canon Noteskin"
+			},
+			{
+				"chart": "S22",
+				"description": "Nimgo in G minor",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Chicken Wing",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462095768527044619/31.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S21",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "Blue Drum Noteskin"
+			},
+			{
+				"chart": "S23",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "Red Drum Noteskin"
+			},
+			{
+				"chart": "D21",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "Yellow Drum Noteskin"
+			},
+			{
+				"chart": "D22",
+				"description": "EXC Wing",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Gothique Resonance",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461473106410602496/532.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S11",
+				"description": "",
+				"objective": "Get velocity item over 205 ea.",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "D12",
+				"description": "",
+				"objective": "Get velocity item over 200 ea.",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "",
+				"objective": "Clear the stage with total steps over 1294",
+				"mods": "Prime 2 Noteskin"
+			},
+			{
+				"chart": "D24",
+				"description": "Nimgo's Flexibility Test",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Dream to Nightmare",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462097545213247499/238.png",
+		"chapter": "9",
+		"version": "2.04.0",
+		"quests": [
+			{
+				"chart": "S22",
+				"description": "",
+				"objective": "Get mine item over 15 ea.",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D22",
+				"description": "",
+				"objective": "Get mine item over 12 ea.",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D24",
+				"description": "",
+				"objective": "Get mine item over 15 ea.",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D27",
+				"description": "FEFEMZ To Nightmare",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
 	{
 		"song": "Me Gustas Tu",
 		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461224886774530048/393.png",
@@ -73,25 +297,153 @@
 				"chart": "S17",
 				"description": "",
 				"objective": "Clear the stage with life over 50%",
-				"mods": "RS, Extra Noteskin"
+				"mods": "RS, Old Noteskin"
 			},
 			{
 				"chart": "S19",
 				"description": "Nimgo's leeds day S",
 				"objective": "Survive until the end",
-				"mods": "Extra Noteskin"
+				"mods": "Old Noteskin"
 			},
 			{
 				"chart": "D18",
 				"description": "",
 				"objective": "Clear the stage with life over 25%",
-				"mods": "RS, Extra Noteskin"
+				"mods": "RS, Old Noteskin"
 			},
 			{
 				"chart": "D20",
 				"description": "Nimgo's leeds day D",
 				"objective": "Survive until the end",
-				"mods": "Extra Noteskin"
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Elise",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462101473770340362/243.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with total steps 892",
+				"mods": "FD, JH, Missile Noteskin"
+			},
+			{
+				"chart": "S19",
+				"description": "",
+				"objective": "Clear the stage with total steps 1290",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D16",
+				"description": "",
+				"objective": "Clear the stage with total steps 1410",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D21",
+				"description": "Fefemlise",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Twist of Fate (feat. Ruriling)",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/461206614960111646/513.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S18",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "S19",
+				"description": "Blue Card",
+				"objective": "Survive until the end",
+				"mods": "Right Blue Noteskin"
+			},
+			{
+				"chart": "S20",
+				"description": "Red Card",
+				"objective": "Survive until the end",
+				"mods": "Left Red Noteskin"
+			},
+			{
+				"chart": "S21",
+				"description": "EXC lol Yellow Card",
+				"objective": "Survive until the end",
+				"mods": "L/R Yellow Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Windmill",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462102443279515658/258.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S13",
+				"description": "",
+				"objective": "Clear the stage over B grade",
+				"mods": "UA, DR, Wind Noteskin"
+			},
+			{
+				"chart": "S17",
+				"description": "Blue Card",
+				"objective": "Clear the stage over A grade",
+				"mods": "DR, Wind Noteskin"
+			},
+			{
+				"chart": "D14",
+				"description": "Red Card",
+				"objective": "Clear the stage over C grade",
+				"mods": "UA, DR, Wind Noteskin"
+			},
+			{
+				"chart": "D24",
+				"description": "Nimgo hates wind",
+				"objective": "Survive until the end",
+				"mods": "NX Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Trashy Innocence",
+		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462102880225198086/352.png",
+		"chapter": "8",
+		"version": "2.03.0",
+		"quests": [
+			{
+				"chart": "S14",
+				"description": "",
+				"objective": "Clear the stage with Miss under 5",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "S15",
+				"description": "Conrad is innocent",
+				"objective": "Clear the stage with life under 3%",
+				"mods": "FD, JH, Dog Noteskin"
+			},
+			{
+				"chart": "S20",
+				"description": "",
+				"objective": "Clear the stage with Miss under 5",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "S23",
+				"description": "Conrad is guilty",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
 			}
 		]
 	}
