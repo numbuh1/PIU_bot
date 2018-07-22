@@ -446,5 +446,37 @@
 				"mods": "Old Noteskin"
 			}
 		]
-	}
+	},
+	    {
+        "song": "Start On Red",
+        "image": "",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1000",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1500",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1700",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "Nimgo's Full Accelation",
+                "objective": "Clear the stage with Max Combo over 1000",
+                "mods": "Fire Noteskin"
+            }
+        ]
+    }
 ]
