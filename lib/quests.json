@@ -478,5 +478,37 @@
                 "mods": "Fire Noteskin"
             }
         ]
+    },
+	    {
+        "song": "1950",
+        "image": "",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "S21",
+                "description": "Conrad's beating S",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "D21",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "D22",
+                "description": "Conrad's beating D",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            }
+        ]
     }
 ]
