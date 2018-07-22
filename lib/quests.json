@@ -896,35 +896,67 @@
         ]
     },
     {
-        "song": "Avalanche",
-        "image": "",
+        "song": "Dam",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470594623748964352/unknown.png",
         "chapter": "6",
         "version": "2.00.0",
         "quests": [
             {
-                "chart": "S15",
+                "chart": "S05",
                 "description": "",
                 "objective": "Survive until the end",
-                "mods": "UJ, Ice Noteskin"
+                "mods": "RS, RSK"
             },
             {
-                "chart": "D17",
+                "chart": "S08",
                 "description": "",
                 "objective": "Survive until the end",
-                "mods": "UJ, Ice Noteskin"
+                "mods": "RS, RSK"
             },
             {
-                "chart": "D19",
+                "chart": "D09",
                 "description": "",
                 "objective": "Survive until the end",
-                "mods": "UJ, Ice Noteskin"
+                "mods": "Red Co-op Noteskin"
             },
             {
                 "chart": "D24",
-                "description": "Conrad's Wintering",
+                "description": "EXC Gallery",
                 "objective": "Survive until the end",
                 "mods": "Old Noteskin"
             }
         ]
     },
+    {
+        "song": "Avalanche",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470595011549855754/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "Nimgo hates Winter",
+                "objective": "Survive until the end",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "",
+                "objective": "Get heart item under 20 ea.",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D26",
+                "description": "EXCValanche",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    }
 ]
