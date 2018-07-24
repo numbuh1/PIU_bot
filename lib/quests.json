@@ -958,5 +958,197 @@
                 "mods": "Old Noteskin"
             }
         ]
+    },
+    {
+        "song": "Final Audition 2",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471324333835550723/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S08",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 111",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S10",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 222",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 333",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "Final Audition2",
+                "objective": "Clear the stage with Max Combo over 555",
+                "mods": "Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Up & Down",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471325255072219146/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Blue Co-op Noteskin"
+            },
+            {
+                "chart": "D16",
+                "description": "Up&Conrad",
+                "objective": "Get heart item over 85 ea.",
+                "mods": "Girl Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "BME&Down",
+                "objective": "Survive until the end",
+                "mods": "Girl Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Naissance 2",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471327238768427030/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S06",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Music Noteskin"
+            },
+            {
+                "chart": "S13",
+                "description": "",
+                "objective": "Get mine item over 30 ea.",
+                "mods": "Music Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Conradssance2",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Kasou Shinja",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471328748986302475/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1080",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1150",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1084",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Nimgo Shinja",
+                "objective": "Survive until the end",
+                "mods": "NX2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Kasou Shinja",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471328748986302475/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1080",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1150",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1084",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Nimgo Shinja",
+                "objective": "Survive until the end",
+                "mods": "NX2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Ignition Starts",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471331783443480576/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Lightning Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FD, Lightning Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, FD, Lightning Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Ignition Fefemz",
+                "objective": "Survive until the end",
+                "mods": "Lightning Noteskin"
+            }
+        ]
     }
 ]
