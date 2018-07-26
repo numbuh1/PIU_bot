@@ -780,7 +780,7 @@
                 "mods": "SI, Card Noteskin"
             },
             {
-                "chart": "D09",
+                "chart": "D9",
                 "description": "",
                 "objective": "Clear the stage under A grade",
                 "mods": "SI, Card Noteskin"
@@ -902,19 +902,19 @@
         "version": "2.00.0",
         "quests": [
             {
-                "chart": "S05",
+                "chart": "S5",
                 "description": "",
                 "objective": "Survive until the end",
                 "mods": "RS, RSK"
             },
             {
-                "chart": "S08",
+                "chart": "S8",
                 "description": "",
                 "objective": "Survive until the end",
                 "mods": "RS, RSK"
             },
             {
-                "chart": "D09",
+                "chart": "D9",
                 "description": "",
                 "objective": "Survive until the end",
                 "mods": "Red Co-op Noteskin"
@@ -966,7 +966,7 @@
         "version": "1.10.0",
         "quests": [
             {
-                "chart": "S08",
+                "chart": "S8",
                 "description": "",
                 "objective": "Clear the stage with Max Combo over 111",
                 "mods": "Easy Noteskin"
@@ -1030,7 +1030,7 @@
         "version": "1.10.0",
         "quests": [
             {
-                "chart": "S06",
+                "chart": "S6",
                 "description": "",
                 "objective": "Get mine item over 10 ea.",
                 "mods": "Music Noteskin"
