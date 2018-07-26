@@ -1342,5 +1342,133 @@
                 "mods": "Old Noteskin"
             }
         ]
-    }
+    },
+    {
+        "song": "Very good",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472000072725561345/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S6",
+                "description": "",
+                "objective": "Clear the stage with Good over 50",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Clear the stage with Good over 75",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear the stage with Good over 100",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "BMEry Good",
+                "objective": "Clear the stage with Max Combo 777",
+                "mods": "SI, HJ, JR, Missile Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Rippin' It Up",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472002407728152598/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S5",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Get mine item over 44 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "Fefemz it up",
+                "objective": "Survive until the end",
+                "mods": "Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Achluoias",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472003776710967297/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Wind Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Wind Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Nimgoluoias",
+                "objective": "Survive until the end",
+                "mods": "Wind Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Hyperion",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472004985710706688/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Canon Noteskin"
+            },
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Diggy Sheep Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Missile Noteskin, Girl Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Operion",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
 ]
