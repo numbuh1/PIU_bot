@@ -1470,5 +1470,8 @@
                 "mods": "Old Noteskin"
             }
         ]
-    } // Finished 4 out of 7 quests in Chapter 3, only Destination, Ignis Fatuus and Extravaganza left //
+    },
+    {
+	 "Note": "chapter 3 has finished 4/7 quest, only 3 more to go. Please delete this line when you continue working on the proj. Thx."
+    }
 ]
