@@ -1088,38 +1088,6 @@
         ]
     },
     {
-        "song": "Kasou Shinja",
-        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471328748986302475/unknown.png",
-        "chapter": "5",
-        "version": "1.10.0",
-        "quests": [
-            {
-                "chart": "S18",
-                "description": "",
-                "objective": "Clear the stage with total steps over 1080",
-                "mods": "NX2 Noteskin"
-            },
-            {
-                "chart": "S20",
-                "description": "",
-                "objective": "Clear the stage with total steps over 1150",
-                "mods": "NX2 Noteskin"
-            },
-            {
-                "chart": "D19",
-                "description": "",
-                "objective": "Clear the stage with total steps over 1084",
-                "mods": "NX2 Noteskin"
-            },
-            {
-                "chart": "D22",
-                "description": "Nimgo Shinja",
-                "objective": "Survive until the end",
-                "mods": "NX2 Noteskin"
-            }
-        ]
-    },
-    {
         "song": "Ignition Starts",
         "image": "https://cdn.discordapp.com/attachments/449167557438472204/471331783443480576/unknown.png",
         "chapter": "5",
