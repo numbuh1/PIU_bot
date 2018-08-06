@@ -1472,6 +1472,99 @@
         ]
     },
     {
-	 "Note": "chapter 3 has finished 4/7 quest, only 3 more to go. Please delete this line when you continue working on the proj. Thx."
+        "song": "Destination",
+        "image": "https://i.imgur.com/DQvA76U.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Get heart item over 33 ea.",
+                "mods": "Poker Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Get velocity item over 111 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Get mine item over 33 ea.",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Minamination",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Ignis Fatuus (DM Ashura Mix)",
+        "image": "https://i.imgur.com/BkATnGA.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "Lightning Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "NXA Noteskin"
+            },
+            {
+                "chart": "S23",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S24",
+                "description": "IgNimgo Fatuus",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Extravaganza",
+        "image": "https://i.imgur.com/BkATnGA.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, NXA Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, Rebirth Noteskin"
+            },
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, Old Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Osingtravaganza",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            }
+        ]
     }
 ]
