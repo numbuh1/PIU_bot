@@ -8,19 +8,19 @@
 			{
 				"chart": "S16",
 				"description": "",
-				"objective": "Clear the stage with Bad under 50",
+				"objective": "Clear the stage with Bad above 50",
 				"mods": "AC, Slime Noteskin"
 			},
 			{
 				"chart": "S17",
 				"description": "",
-				"objective": "Clear the stage with Bad under 55",
+				"objective": "Clear the stage with Bad above 55",
 				"mods": "EW, Slime Noteskin"
 			},
 			{
 				"chart": "D17",
 				"description": "",
-				"objective": "Clear the stage with Bad under 45",
+				"objective": "Clear the stage with Bad above 45",
 				"mods": "DC, Slime Noteskin"
 			},
 			{
