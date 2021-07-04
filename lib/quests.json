@@ -1,4 +1,228 @@
-[	
+[
+	{
+		"song": "Tek -Club Copenhagen-",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485221115728232448/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "S16",
+				"description": "",
+				"objective": "Clear the stage with Bad above 50",
+				"mods": "AC, Slime Noteskin"
+			},
+			{
+				"chart": "S17",
+				"description": "",
+				"objective": "Clear the stage with Bad above 55",
+				"mods": "EW, Slime Noteskin"
+			},
+			{
+				"chart": "D17",
+				"description": "",
+				"objective": "Clear the stage with Bad above 45",
+				"mods": "DC, Slime Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "Osing's freezing club",
+				"objective": "Survive until the end",
+				"mods": "Slime Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Black Dragon",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485217214211817474/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "D11",
+				"description": "",
+				"objective": "Clear the stage with Max Combo under 100",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "D17",
+				"description": "",
+				"objective": "Clear the stage with Max Combo under 1000",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "D19",
+				"description": "",
+				"objective": "Clear the stage with Max Combo under 1000",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "D20",
+				"description": "Black Nimgo",
+				"objective": "Survive until the end",
+				"mods": "Lightning Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Meteorize",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485217582547337229/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "S3",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "S5",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "S10",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "JH, Lightning Noteskin"
+			},
+			{
+				"chart": "D19",
+				"description": "BMErize",
+				"objective": "Survive until the end",
+				"mods": "FD, NX2 Noteskin"
+			}
+		]
+	},
+	{
+		"song": "A Site De La Rue",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485219949619576832/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "S20",
+				"description": "",
+				"objective": "Clear the stage over A grade",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "S21",
+				"description": "Ez2EXC NM",
+				"objective": "Survive until the end",
+				"mods": "EJ, Old Noteskin"
+			},
+			{
+				"chart": "S26",
+				"description": "Ez2EXC HD",
+				"objective": "Survive until the end",
+				"mods": "EJ, Old Noteskin"
+			},
+			{
+				"chart": "S28",
+				"description": "Ez2EXC SHD",
+				"objective": "Survive until the end",
+				"mods": "EJ, Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "The People didn't know",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485218519831674945/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "S5",
+				"description": "?",
+				"objective": "Survive until the end",
+				"mods": "BGA Off, NXA Noteskin, Old Noteskin"
+			},
+			{
+				"chart": "D7",
+				"description": "??",
+				"objective": "Clear the stage with total steps over 305",
+				"mods": "BGA Off, NXA Noteskin, Yellow L/R Co-op Noteskin, Football Noteskin, Old Noteskin"
+			},
+			{
+				"chart": "D13",
+				"description": "?!?!?",
+				"objective": "Survive until the end",
+				"mods": "FD, BGA Off, Football Noteskin"
+			},
+			{
+				"chart": "D18",
+				"description": "Only Nimgo knew",
+				"objective": "Survive until the end",
+				"mods": "BGA Off, NXA Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Allegro Con Fuoco",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485218955305156608/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "D19",
+				"description": "5~19",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D22",
+				"description": "10~22",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D25",
+				"description": "13~25",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D27",
+				"description": "Good bye Nimgo",
+				"objective": "",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
+	{
+		"song": "Shub Niggurath",
+		"image": "https://cdn.discordapp.com/attachments/449167557438472204/485219509867773973/unknown.png",
+		"chapter": "10",
+		"version": "2.05.0",
+		"quests": [
+			{
+				"chart": "D17",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "Fire Noteskin"
+			},
+			{
+				"chart": "D23",
+				"description": "",
+				"objective": "Survive until the end",
+				"mods": "FD, Soccer Noteskin"
+			},
+			{
+				"chart": "D27",
+				"description": "EXC Raid",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			},
+			{
+				"chart": "D28",
+				"description": "You can't beat EXC",
+				"objective": "Survive until the end",
+				"mods": "Old Noteskin"
+			}
+		]
+	},
 	{
 		"song": "U Got Me Crazy",
 		"image": "https://cdn.discordapp.com/attachments/311546162425364500/462093570871132171/280.png",
@@ -446,5 +670,1573 @@
 				"mods": "Old Noteskin"
 			}
 		]
-	}
+	},
+	    {
+        "song": "Start On Red",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/469779152803987456/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1000",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1500",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 1700",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "Nimgo's Full Accelation (*Acceleration)",
+                "objective": "Clear the stage with Max Combo over 1000",
+                "mods": "Fire Noteskin"
+            }
+        ]
+    },
+	    {
+        "song": "1950",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471980263027507203/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "S21",
+                "description": "Conrad's beating S",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "D21",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            },
+            {
+                "chart": "D22",
+                "description": "Conrad's beating D",
+                "objective": "Survive until the end",
+                "mods": "Random Noteskin (The song will choose 1 random noteskin from the beginning and it will be that noteskin for the rest of the song)"
+            }
+        ]
+    },
+    {
+        "song": "Mr. Larpus",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470567394046115841/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Get heart item over 75 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "",
+                "objective": "Get heart item over 75 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Get heart item over 50 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "Mr. Osing",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Hi-Bi",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470568814120009729/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Miss 0",
+                "mods": "Music Noteskin, Old Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Clear the stage with Miss 0",
+                "mods": "Music Noteskin, Old Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "",
+                "objective": "Clear the stage with Miss 0",
+                "mods": "Music Noteskin, Old Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "Hi Fefemz",
+                "objective": "Survive until the end",
+                "mods": "Diggy Sheep Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "B2",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471981401936363521/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage with Great 2",
+                "mods": "Wind Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Good 2",
+                "mods": "Wind Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with Bad 2",
+                "mods": "Wind Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "KAZE-MURA-2",
+                "objective": "Survive until the end",
+                "mods": "Wind Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Reminiscence",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470571338927570944/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Clear the stage with Great under 50",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "Conrad's reminiscence",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Clear the stage with Great under 30",
+                "mods": "EJ, Easy Noteskin"
+            },
+            {
+                "chart": "D23",
+                "description": "EXC's Reminigoyle",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Sugar Conspiracy Theory",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470573745010900993/unknown.png",
+        "chapter": "7",
+        "version": "2.02.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "NXA Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "BME's Conspiracy Theory",
+                "objective": "Clear the stage with total steps over 895",
+                "mods": "FD, Slime Noteskin"
+            },
+            {
+                "chart": "D25",
+                "description": "Nimgo's Saccharin",
+                "objective": "Survive until the end",
+                "mods": "Wind Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Number 9",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470578662346063874/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage with life over 90%",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S13",
+                "description": "",
+                "objective": "Clear the stage with life over 90%",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "BME's Conspiracy Theory",
+                "objective": "Clear the stage with life over 90%",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "Conrad's Potion Gathering",
+                "objective": "Clear with life over 100%",
+                "mods": "FD, Potions"
+            }
+        ]
+    },
+    {
+        "song": "Follow Me",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470583245814366208/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Clear the stage with total steps over 770",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1015",
+                "mods": "Easy Noteskin, Football Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1250",
+                "mods": "JN, Easy Noteskin, Football Noteskin, Extra Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "Follow BMe",
+                "objective": "Clear the stage with total steps over 610",
+                "mods": "JN, Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Boombayah",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470583902726127636/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "BoomBannie",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Tepris",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470585494137339904/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage under A grade",
+                "mods": "SI, Card Noteskin"
+            },
+            {
+                "chart": "D9",
+                "description": "",
+                "objective": "Clear the stage under A grade",
+                "mods": "SI, Card Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Clear the stage under A grade",
+                "mods": "NX (Note that NX is bugged in this quest), SI, Old Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "Femzris",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Cross Time",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470587845225086977/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Miss under 15",
+                "mods": "FL, Rebirth Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Miss over 25",
+                "mods": "FL, Rebirth Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "",
+                "objective": "Clear the stage with Miss over 35",
+                "mods": "FL, Rebirth Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "Nimgo's Freezing Time",
+                "objective": "Survive until the end",
+                "mods": "Rebirth Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Moon Light Dance",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470590100149895168/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Clear the stage with Great over 25",
+                "mods": "FD, JR, Wind Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "",
+                "objective": "Clear the stage with Bad over 25",
+                "mods": "FD, JR, Wind Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with Bad and Miss altogether over 75",
+                "mods": "JR, Wind Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Nimgo Moon",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Winter",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470591337360785428/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "UJ, Ice Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "UJ, Ice Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "UJ, Ice Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Conrad's Wintering",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Dam",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470594623748964352/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S5",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "RS, RSK"
+            },
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "RS, RSK"
+            },
+            {
+                "chart": "D9",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "EXC Gallery",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Avalanche",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/470595011549855754/unknown.png",
+        "chapter": "6",
+        "version": "2.00.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "Nimgo hates Winter",
+                "objective": "Survive until the end",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "",
+                "objective": "Get heart item under 20 ea.",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D26",
+                "description": "EXCValanche",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Final Audition 2",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471324333835550723/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 111",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S10",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 222",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 333",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "Final Audition2",
+                "objective": "Clear the stage with Max Combo over 555",
+                "mods": "Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Up & Down",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471325255072219146/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Red Co-op Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Blue Co-op Noteskin"
+            },
+            {
+                "chart": "D16",
+                "description": "Up&Conrad",
+                "objective": "Get heart item over 85 ea.",
+                "mods": "Girl Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "BME&Down",
+                "objective": "Survive until the end",
+                "mods": "Girl Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Naissance 2",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471327238768427030/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S6",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Music Noteskin"
+            },
+            {
+                "chart": "S13",
+                "description": "",
+                "objective": "Get mine item over 30 ea.",
+                "mods": "Music Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Conradssance2",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Kasou Shinja",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471328748986302475/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1080",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1150",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1084",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Nimgo Shinja",
+                "objective": "Survive until the end",
+                "mods": "NX2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Ignition Starts",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471331783443480576/unknown.png",
+        "chapter": "5",
+        "version": "1.10.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Lightning Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FD, Lightning Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, FD, Lightning Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Ignition Fefemz",
+                "objective": "Survive until the end",
+                "mods": "Lightning Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Last Rebirth",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471984736257048596/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Get velocity item over 100 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S13",
+                "description": "",
+                "objective": "Get velocity item over 130 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Get velocity item over 100 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "Last Conrad",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Sarabande",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471985969445339146/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S7",
+                "description": "",
+                "objective": "Clear the stage with Miss under 5",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Miss under 10",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Miss under 15",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "Conrabande",
+                "objective": "Survive until the end",
+                "mods": "NX Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Katkoi",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471987974528172032/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Clear the stage with Good and Bad altogher (*altogether) 2",
+                "mods": "Rebirth Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Bad and Miss altogher (*altogether) 2",
+                "mods": "Rebirth Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with Bad under 2",
+                "mods": "Rebirth Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "KatNimgo",
+                "objective": "Survive until the end",
+                "mods": "Rebirth Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Final Audition 3",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471990494742708235/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Clear the stage with Max Combo under 100",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Clear the stage with Max Combo under 75",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Clear the stage with Max Combo under 60 (*actually it's above)",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Nimgo Audition",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Mad5cience",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471992856735645706/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S5",
+                "description": "",
+                "objective": "Clear the stage with life under 15%",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with life under 10%",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D16",
+                "description": "",
+                "objective": "Clear the stage with life under 5%",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Mad EXC",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "THE REVOLUTION",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471993444080812036/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear the stage over S grade",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S22",
+                "description": "The MinamitionS",
+                "objective": "Survive until the end",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "",
+                "objective": "Get heart item over 224 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "The MinamitionD",
+                "objective": "Survive until the end",
+                "mods": "NX Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Monkey Fingers",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/471995639496966144/unknown.png",
+        "chapter": "4",
+        "version": "1.09.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Get item over 120 ea.",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Get item over 125 ea.",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "",
+                "objective": "Get item over 100 ea.",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D25",
+                "description": "Monkey Fefemz",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Very good",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472000072725561345/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S6",
+                "description": "",
+                "objective": "Clear the stage with Good over 50",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Clear the stage with Good over 75",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear the stage with Good over 100",
+                "mods": "JR, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "BMEry Good",
+                "objective": "Clear the stage with Max Combo 777",
+                "mods": "SI, HJ, JR, Missile Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Rippin' It Up",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472002407728152598/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S5",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Get mine item over 44 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "Fefemz it up",
+                "objective": "Survive until the end",
+                "mods": "Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Achluoias",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472003776710967297/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Wind Noteskin"
+            },
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, Wind Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Nimgoluoias",
+                "objective": "Survive until the end",
+                "mods": "Wind Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Hyperion",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/472004985710706688/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Canon Noteskin"
+            },
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Diggy Sheep Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Missile Noteskin, Girl Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Operion",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Destination",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485194971809579029/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Get heart item over 33 ea.",
+                "mods": "Poker Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Get velocity item over 111 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Get mine item over 33 ea.",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "Minamination",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Ignis Fatuus (DM Ashura Mix)",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485195113715335169/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "Lightning Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "NXA Noteskin"
+            },
+            {
+                "chart": "S23",
+                "description": "",
+                "objective": "Clear with life 100%",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S24",
+                "description": "IgNimgo Fatuus",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Extravaganza",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485195237359353866/unknown.png",
+        "chapter": "3",
+        "version": "1.07.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, NXA Noteskin"
+            },
+            {
+                "chart": "S21",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, Rebirth Noteskin"
+            },
+            {
+                "chart": "S11",
+                "description": "",
+                "objective": "Clear the stage over A grade",
+                "mods": "VJ, Old Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Osingtravaganza",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Bring Back The Beat",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485191759127773186/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S12",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "Bring back the Huge",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "U Got Me Rocking",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485191888786423842/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Get mine item over 10 ea.",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Get mine item over 15 ea.",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Get mine item over 30 ea.",
+                "mods": "NX Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "U Got Me Conrad",
+                "objective": "Get mine item over 15 ea.",
+                "mods": "JN, NX Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "FOUR SEASONS OF LONELINESS verβ feat. Sariyajin",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485192292085530632/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "EW, Lightning Noteskin"
+            },
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "SN, Fire Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "EW, SN, Wind Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "Bannie is lonely",
+                "objective": "Survive until the end",
+                "mods": "Lightning Noteskin, Wind Noteskin, Fire Noteskin, Ice Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Moment Day",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485192545627013151/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S15",
+                "description": "",
+                "objective": "Get heart item over 40 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "D17",
+                "description": "Osing Moment",
+                "objective": "Survive until the end",
+                "mods": "Rebirth Noteskin"
+            },
+            {
+                "chart": "D19",
+                "description": "",
+                "objective": "Get heart item over 30 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "Nimgo Moment",
+                "objective": "Survive until the end",
+                "mods": "Rebirth Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Mental Rider",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485192823193468930/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S12",
+                "description": "",
+                "objective": "Clear the stage with Perfect and Miss altogher 550",
+                "mods": "Music Noteskin, Poker Noteskin, Football Noteskin, Flower Card Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Perfect and Miss altogher 880",
+                "mods": "Music Noteskin, Football Noteskin, Flower Card Noteskin, Poker Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "Mental Login",
+                "objective": "Survive until the end",
+                "mods": "NX2 Noteskin"
+            },
+            {
+                "chart": "D21",
+                "description": "EXC Rider",
+                "objective": "Survive until the end",
+                "mods": "Basic Mode Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Papa Gonlazes",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485193633797111831/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            },
+            {
+                "chart": "S14",
+                "description": "",
+                "objective": "Clear the stage with Bad under 5",
+                "mods": "VJ, Old Noteskin, Poker Noteskin"
+            },
+            {
+                "chart": "D18",
+                "description": "",
+                "objective": "Clear the stage with Bad under 5",
+                "mods": "VJ, Old Noteskin, Flower Card Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "Papa Fefemz",
+                "objective": "Survive until the end",
+                "mods": "Old Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Renai Yuusha",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485194674970034178/unknown.png",
+        "chapter": "2",
+        "version": "1.05.0",
+        "quests": [
+            {
+                "chart": "S17",
+                "description": "",
+                "objective": "Clear the stage with Great 0",
+                "mods": "EJ, Prime 2 Noteskin"
+            },
+            {
+                "chart": "S19",
+                "description": "",
+                "objective": "Clear the stage with Great under 2",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "",
+                "objective": "Clear the stage with Great under 4",
+                "mods": "EJ, Prime 2 Noteskin"
+            },
+            {
+                "chart": "D24",
+                "description": "Conrad Yuusha",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "PICK ME",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485201370786562049/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S3",
+                "description": "",
+                "objective": "Get heart item over 10 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S5",
+                "description": "",
+                "objective": "Get heart item over 30 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Get heart item over 50 ea.",
+                "mods": "Easy Noteskin"
+            },
+            {
+                "chart": "S10",
+                "description": "Conrad Yuusha",
+                "objective": "Get heart item over 44 ea.",
+                "mods": "V, JH, Easy Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Red Swan",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485201659157282820/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S4",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "SN, Music Noteskin"
+            },
+            {
+                "chart": "S6",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "SN, Music Noteskin"
+            },
+            {
+                "chart": "S8",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "FL, SN, Music Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "Nimgo Swan",
+                "objective": "Survive until the end",
+                "mods": "Wind Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Tribe Attacker",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485202398696964126/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Clear the stage with Miss under 5",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D10",
+                "description": "",
+                "objective": "Clear the stage with Miss under 6",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D15",
+                "description": "",
+                "objective": "Clear the stage with Miss under 7",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D16",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Slime Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Rock the house",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485202639097823244/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "D10",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "V, Canon Noteskin"
+            },
+            {
+                "chart": "D13",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "V, Canon Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "",
+                "objective": "Survive until the end",
+                "mods": "Blue Drum Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "",
+                "objective": "Clear the stage with total steps over 1595",
+                "mods": "JN, Prime 2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Arirang",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485203259024343070/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S9",
+                "description": "",
+                "objective": "Clear the stage with Miss 2",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Miss 5",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S22",
+                "description": "",
+                "objective": "Clear the stage with Miss over 50",
+                "mods": "Fire Noteskin"
+            },
+            {
+                "chart": "S23",
+                "description": "Zelllooo Mission",
+                "objective": "Clear the stage with Miss under 18",
+                "mods": "Fire Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Lucid(PIU Edit)",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485204170094411786/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Get potion item under 16 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "S20",
+                "description": "",
+                "objective": "Get potion item under 20 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D20",
+                "description": "",
+                "objective": "Get potion item under 20 ea.",
+                "mods": "Prime 2 Noteskin"
+            },
+            {
+                "chart": "D22",
+                "description": "FLeufceimdz",
+                "objective": "Survive until the end",
+                "mods": "Prime 2 Noteskin"
+            }
+        ]
+    },
+    {
+        "song": "Clue",
+        "image": "https://cdn.discordapp.com/attachments/449167557438472204/485204429189021727/unknown.png",
+        "chapter": "1",
+        "version": "1.03.0",
+        "quests": [
+            {
+                "chart": "S12",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 365",
+                "mods": "VJ, Old Noteskin"
+            },
+            {
+                "chart": "S16",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 525",
+                "mods": "VJ, Old Noteskin"
+            },
+            {
+                "chart": "S18",
+                "description": "",
+                "objective": "Clear the stage with Max Combo over 575",
+                "mods": "VJ, Old Noteskin"
+            },
+            {
+                "chart": "S23",
+                "description": "Ez2Nimgo",
+                "objective": "Survive until the end",
+                "mods": "JN, Old Noteskin"
+            }
+        ]
+    }
 ]
